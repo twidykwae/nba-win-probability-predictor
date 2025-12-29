@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import joblib
 from scipy.stats import ttest_ind
+import plotly.express as px
+import plotly.graph_objects as go
 
 st.title("NBA Win Probability Predictor")
 
@@ -29,15 +31,18 @@ st.subheader(f"{team} vs {opponent}")
 if len(filtered) == 0:
     st.warning("No games found between these teams.")
 else:
-    col1, col2, col3 = st.columns(3)
+    col1, col2, col3, col4 = st.columns(4)
     
     games_played = len(filtered)
     win_rate = filtered["win"].mean()
     avg_point_diff = (filtered["points"] - filtered["opponent_points"]).mean()
+    avg_points = filtered["points"].mean()
+    avg_opp_points = filtered["opponent_points"].mean()
     
     col1.metric("Games Played", games_played)
     col2.metric("Win Rate", f"{win_rate:.1%}")
     col3.metric("Avg Point Diff", round(avg_point_diff, 2))
+    col4.metric("Avg Points", f"{avg_points:.1f}", f"Opp: {avg_opp_points:.1f}")
 
 
 if len(filtered) > 0 and len(team_df[team_df["opponent"] != opponent]) > 0:
