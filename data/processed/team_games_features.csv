@@ -1,0 +1,815 @@
+date,team,opponent,points,opponent_points,home,win,avg_pts_last5,avg_opponent_pts_last5,win_rate_last5,vs_opponent_win_rate
+2025-10-29,Atlanta Hawks,Brooklyn Nets,117,112,0,1,113.8,120.4,0.4,1.0
+2025-10-31,Atlanta Hawks,Indiana Pacers,128,108,0,1,115.8,114.4,0.6,1.0
+2025-11-02,Atlanta Hawks,Cleveland Cavaliers,109,117,0,0,115.4,116.4,0.4,0.0
+2025-11-04,Atlanta Hawks,Orlando Magic,127,112,1,1,120.8,115.4,0.6,1.0
+2025-11-07,Atlanta Hawks,Toronto Raptors,97,109,1,0,115.6,111.6,0.6,0.0
+2025-11-08,Atlanta Hawks,Los Angeles Lakers,122,102,1,1,116.6,109.6,0.6,1.0
+2025-11-10,Atlanta Hawks,Los Angeles Clippers,105,102,0,1,112.0,108.4,0.6,1.0
+2025-11-12,Atlanta Hawks,Sacramento Kings,133,100,0,1,116.8,105.0,0.8,1.0
+2025-11-13,Atlanta Hawks,Utah Jazz,132,122,0,1,117.8,107.0,0.8,1.0
+2025-11-16,Atlanta Hawks,Phoenix Suns,124,122,0,1,123.2,109.6,1.0,1.0
+2025-11-18,Atlanta Hawks,Detroit Pistons,112,120,1,0,121.2,113.2,0.8,0.0
+2025-11-20,Atlanta Hawks,San Antonio Spurs,126,135,0,0,125.4,119.8,0.6,0.0
+2025-11-22,Atlanta Hawks,New Orleans Pelicans,115,98,0,1,121.8,119.4,0.6,1.0
+2025-11-23,Atlanta Hawks,Charlotte Hornets,113,110,1,1,118.0,117.0,0.6,1.0
+2025-11-25,Atlanta Hawks,Washington Wizards,113,132,0,0,115.8,119.0,0.4,0.0
+2025-11-28,Atlanta Hawks,Cleveland Cavaliers,130,123,1,1,119.4,119.6,0.6,0.5
+2025-11-30,Atlanta Hawks,Philadelphia 76ers,142,134,0,1,122.6,119.4,0.8,1.0
+2025-12-01,Atlanta Hawks,Detroit Pistons,98,99,0,0,119.2,119.6,0.6,0.0
+2025-12-03,Atlanta Hawks,Los Angeles Clippers,92,115,1,0,115.0,120.6,0.4,0.5
+2025-12-05,Atlanta Hawks,Denver Nuggets,133,134,1,0,119.0,121.0,0.4,0.0
+2025-12-06,Atlanta Hawks,Washington Wizards,131,116,0,1,119.2,119.6,0.4,0.5
+2025-12-12,Atlanta Hawks,Detroit Pistons,115,142,0,0,113.8,121.2,0.2,0.0
+2025-12-14,Atlanta Hawks,Philadelphia 76ers,120,117,1,1,118.2,124.8,0.4,1.0
+2025-12-18,Atlanta Hawks,Charlotte Hornets,126,133,0,0,125.0,128.4,0.4,0.5
+2025-12-19,Atlanta Hawks,San Antonio Spurs,98,126,1,0,118.0,126.8,0.4,0.0
+2025-12-21,Atlanta Hawks,Chicago Bulls,150,152,1,0,121.8,134.0,0.2,0.0
+2025-12-23,Atlanta Hawks,Chicago Bulls,123,126,1,0,123.4,130.8,0.2,0.0
+2025-12-26,Atlanta Hawks,Miami Heat,111,126,1,0,121.6,132.6,0.0,0.0
+2025-12-27,Atlanta Hawks,New York Knicks,125,128,1,0,121.4,131.6,0.0,0.0
+2025-10-29,Boston Celtics,Cleveland Cavaliers,125,105,1,1,114.2,107.2,0.4,1.0
+2025-10-31,Boston Celtics,Philadelphia 76ers,109,108,0,1,112.8,105.4,0.6,0.5
+2025-11-01,Boston Celtics,Houston Rockets,101,128,1,0,114.0,110.0,0.6,0.0
+2025-11-03,Boston Celtics,Utah Jazz,103,105,1,0,112.0,107.2,0.6,0.0
+2025-11-05,Boston Celtics,Washington Wizards,136,107,1,1,114.8,110.6,0.6,1.0
+2025-11-07,Boston Celtics,Orlando Magic,110,123,0,0,111.8,114.2,0.4,0.0
+2025-11-09,Boston Celtics,Orlando Magic,111,107,0,1,112.2,114.0,0.4,0.5
+2025-11-11,Boston Celtics,Philadelphia 76ers,100,102,0,0,112.0,108.8,0.4,0.3333333333333333
+2025-11-12,Boston Celtics,Memphis Grizzlies,131,95,1,1,117.6,106.8,0.6,1.0
+2025-11-16,Boston Celtics,Los Angeles Clippers,121,118,1,1,114.6,109.0,0.6,1.0
+2025-11-18,Boston Celtics,Brooklyn Nets,113,99,0,1,115.2,104.2,0.8,1.0
+2025-11-21,Boston Celtics,Brooklyn Nets,105,113,1,0,114.0,105.4,0.6,0.5
+2025-11-23,Boston Celtics,Orlando Magic,138,129,1,1,121.6,110.8,0.8,0.6666666666666666
+2025-11-26,Boston Celtics,Detroit Pistons,117,114,1,1,118.8,114.6,0.8,0.5
+2025-11-29,Boston Celtics,Minnesota Timberwolves,115,119,0,0,117.6,114.8,0.6,0.0
+2025-11-30,Boston Celtics,Cleveland Cavaliers,117,115,0,1,118.4,118.0,0.6,1.0
+2025-12-02,Boston Celtics,New York Knicks,123,117,1,1,122.0,118.8,0.8,0.5
+2025-12-04,Boston Celtics,Washington Wizards,146,101,0,1,123.6,113.2,0.8,1.0
+2025-12-05,Boston Celtics,Los Angeles Lakers,126,105,1,1,125.4,111.4,0.8,1.0
+2025-12-07,Boston Celtics,Toronto Raptors,121,113,0,1,126.6,110.2,1.0,1.0
+2025-12-11,Boston Celtics,Milwaukee Bucks,101,116,0,0,123.4,110.4,0.8,0.0
+2025-12-15,Boston Celtics,Detroit Pistons,105,112,1,0,119.8,109.4,0.6,0.3333333333333333
+2025-12-19,Boston Celtics,Miami Heat,129,116,1,1,116.4,112.4,0.6,1.0
+2025-12-20,Boston Celtics,Toronto Raptors,112,96,0,1,113.6,110.6,0.6,1.0
+2025-12-22,Boston Celtics,Indiana Pacers,103,95,1,1,110.0,107.0,0.6,1.0
+2025-12-26,Boston Celtics,Indiana Pacers,140,122,0,1,117.8,108.2,0.8,1.0
+2025-10-29,Brooklyn Nets,Atlanta Hawks,112,117,1,0,113.8,127.8,0.0,0.0
+2025-11-02,Brooklyn Nets,Philadelphia 76ers,105,129,1,0,111.4,126.4,0.0,0.0
+2025-11-03,Brooklyn Nets,Minnesota Timberwolves,109,125,1,0,108.4,125.2,0.0,0.0
+2025-11-05,Brooklyn Nets,Indiana Pacers,112,103,0,1,109.4,122.2,0.2,1.0
+2025-11-07,Brooklyn Nets,Detroit Pistons,107,125,1,0,109.0,119.8,0.2,0.0
+2025-11-09,Brooklyn Nets,New York Knicks,98,134,0,0,106.2,123.2,0.2,0.0
+2025-11-11,Brooklyn Nets,Toronto Raptors,109,119,1,0,107.0,121.2,0.2,0.0
+2025-11-14,Brooklyn Nets,Orlando Magic,98,105,0,0,104.8,117.2,0.2,0.0
+2025-11-16,Brooklyn Nets,Washington Wizards,129,106,0,1,108.2,117.8,0.2,1.0
+2025-11-18,Brooklyn Nets,Boston Celtics,99,113,1,0,106.6,115.4,0.2,0.0
+2025-11-21,Brooklyn Nets,Boston Celtics,113,105,0,1,109.6,109.6,0.4,0.5
+2025-11-23,Brooklyn Nets,Toronto Raptors,109,119,0,0,109.6,109.6,0.4,0.0
+2025-11-24,Brooklyn Nets,New York Knicks,100,113,1,0,110.0,111.2,0.4,0.0
+2025-11-28,Brooklyn Nets,Philadelphia 76ers,103,115,1,0,104.8,113.0,0.2,0.0
+2025-11-29,Brooklyn Nets,Milwaukee Bucks,99,116,0,0,104.8,113.6,0.2,0.0
+2025-12-01,Brooklyn Nets,Charlotte Hornets,116,103,1,1,105.4,113.2,0.2,0.5
+2025-12-03,Brooklyn Nets,Chicago Bulls,113,103,0,1,106.2,110.0,0.4,1.0
+2025-12-04,Brooklyn Nets,Utah Jazz,110,123,1,0,108.2,112.0,0.4,0.0
+2025-12-06,Brooklyn Nets,New Orleans Pelicans,119,101,1,1,111.4,109.2,0.6,1.0
+2025-12-12,Brooklyn Nets,Dallas Mavericks,111,119,0,0,113.8,109.8,0.6,0.0
+2025-12-14,Brooklyn Nets,Milwaukee Bucks,127,82,1,1,116.0,105.6,0.6,0.5
+2025-12-18,Brooklyn Nets,Miami Heat,95,106,1,0,112.4,106.2,0.4,0.0
+2025-12-21,Brooklyn Nets,Toronto Raptors,96,81,1,1,109.6,97.8,0.6,0.3333333333333333
+2025-12-23,Brooklyn Nets,Philadelphia 76ers,114,106,0,1,108.6,98.8,0.6,0.3333333333333333
+2025-12-27,Brooklyn Nets,Minnesota Timberwolves,123,107,0,1,111.0,96.4,0.8,0.5
+2025-10-30,Charlotte Hornets,Orlando Magic,107,123,1,0,124.0,124.4,0.4,0.0
+2025-11-01,Charlotte Hornets,Minnesota Timberwolves,105,122,1,0,117.8,125.4,0.2,0.0
+2025-11-02,Charlotte Hornets,Utah Jazz,126,103,1,1,118.8,121.0,0.4,1.0
+2025-11-04,Charlotte Hornets,New Orleans Pelicans,112,116,0,0,113.4,121.6,0.2,0.0
+2025-11-07,Charlotte Hornets,Miami Heat,108,126,0,0,111.6,118.0,0.2,0.0
+2025-11-10,Charlotte Hornets,Los Angeles Lakers,111,121,1,0,112.4,117.6,0.2,0.0
+2025-11-12,Charlotte Hornets,Milwaukee Bucks,111,100,1,1,113.6,113.2,0.4,1.0
+2025-11-14,Charlotte Hornets,Milwaukee Bucks,134,147,0,0,115.2,122.0,0.2,0.5
+2025-11-15,Charlotte Hornets,Oklahoma City Thunder,96,109,1,0,112.0,120.6,0.2,0.0
+2025-11-17,Charlotte Hornets,Toronto Raptors,108,110,0,0,112.0,117.4,0.2,0.0
+2025-11-19,Charlotte Hornets,Indiana Pacers,118,127,0,0,113.4,118.6,0.2,0.0
+2025-11-22,Charlotte Hornets,Los Angeles Clippers,116,131,1,0,114.4,124.8,0.0,0.0
+2025-11-23,Charlotte Hornets,Atlanta Hawks,110,113,0,0,109.6,118.0,0.0,0.0
+2025-11-26,Charlotte Hornets,New York Knicks,101,129,1,0,110.6,122.0,0.0,0.0
+2025-11-28,Charlotte Hornets,Chicago Bulls,123,116,1,1,113.6,123.2,0.2,1.0
+2025-11-29,Charlotte Hornets,Toronto Raptors,118,111,1,1,113.6,120.0,0.4,0.5
+2025-12-01,Charlotte Hornets,Brooklyn Nets,103,116,0,0,111.0,117.0,0.4,0.5
+2025-12-03,Charlotte Hornets,New York Knicks,104,119,0,0,109.8,118.2,0.4,0.0
+2025-12-05,Charlotte Hornets,Toronto Raptors,111,86,0,1,111.8,109.6,0.6,0.6666666666666666
+2025-12-07,Charlotte Hornets,Denver Nuggets,106,115,1,0,108.4,109.4,0.4,0.0
+2025-12-12,Charlotte Hornets,Chicago Bulls,126,129,1,0,110.0,113.0,0.2,0.5
+2025-12-14,Charlotte Hornets,Cleveland Cavaliers,119,111,0,1,113.2,112.0,0.4,1.0
+2025-12-18,Charlotte Hornets,Atlanta Hawks,133,126,1,1,119.0,113.4,0.6,0.5
+2025-12-20,Charlotte Hornets,Detroit Pistons,86,112,0,0,114.0,118.6,0.4,0.0
+2025-12-22,Charlotte Hornets,Cleveland Cavaliers,132,139,0,0,119.2,123.4,0.4,0.5
+2025-12-23,Charlotte Hornets,Washington Wizards,126,109,1,1,119.2,119.4,0.6,1.0
+2025-12-26,Charlotte Hornets,Orlando Magic,120,105,0,1,119.4,118.2,0.6,0.5
+2025-10-31,Chicago Bulls,New York Knicks,135,125,1,1,122.8,114.0,1.0,1.0
+2025-11-02,Chicago Bulls,New York Knicks,116,128,0,0,123.0,117.4,0.8,0.5
+2025-11-04,Chicago Bulls,Philadelphia 76ers,113,111,1,1,123.6,120.0,0.8,1.0
+2025-11-07,Chicago Bulls,Milwaukee Bucks,110,126,0,0,120.0,120.6,0.6,0.0
+2025-11-08,Chicago Bulls,Cleveland Cavaliers,122,128,0,0,119.2,123.6,0.4,0.0
+2025-11-10,Chicago Bulls,San Antonio Spurs,117,121,1,0,115.6,122.8,0.2,0.0
+2025-11-12,Chicago Bulls,Detroit Pistons,113,124,0,0,115.0,122.0,0.2,0.5
+2025-11-16,Chicago Bulls,Utah Jazz,147,150,0,0,121.8,129.8,0.0,0.0
+2025-11-17,Chicago Bulls,Denver Nuggets,130,127,0,1,125.8,130.0,0.2,1.0
+2025-11-19,Chicago Bulls,Portland Trail Blazers,122,121,0,1,125.8,128.6,0.4,1.0
+2025-11-21,Chicago Bulls,Miami Heat,107,143,1,0,123.8,133.0,0.4,0.0
+2025-11-22,Chicago Bulls,Washington Wizards,121,120,1,1,125.4,132.2,0.6,1.0
+2025-11-24,Chicago Bulls,New Orleans Pelicans,130,143,0,0,122.0,130.8,0.6,0.0
+2025-11-28,Chicago Bulls,Charlotte Hornets,116,123,0,0,119.2,130.0,0.4,0.0
+2025-11-29,Chicago Bulls,Indiana Pacers,101,103,0,0,115.0,126.4,0.2,0.0
+2025-12-01,Chicago Bulls,Orlando Magic,120,125,0,0,117.6,122.8,0.2,0.5
+2025-12-03,Chicago Bulls,Brooklyn Nets,103,113,1,0,114.0,121.4,0.0,0.0
+2025-12-05,Chicago Bulls,Indiana Pacers,105,120,1,0,109.0,116.8,0.0,0.0
+2025-12-07,Chicago Bulls,Golden State Warriors,91,123,1,0,104.0,116.8,0.0,0.0
+2025-12-12,Chicago Bulls,Charlotte Hornets,129,126,0,1,109.6,121.4,0.2,0.5
+2025-12-14,Chicago Bulls,New Orleans Pelicans,104,114,1,0,106.4,119.2,0.2,0.0
+2025-12-17,Chicago Bulls,Cleveland Cavaliers,127,111,1,1,111.2,118.8,0.4,0.5
+2025-12-19,Chicago Bulls,Cleveland Cavaliers,136,125,0,1,117.4,119.8,0.6,0.6666666666666666
+2025-12-21,Chicago Bulls,Atlanta Hawks,152,150,0,1,129.6,125.2,0.8,1.0
+2025-12-23,Chicago Bulls,Atlanta Hawks,126,123,0,1,129.0,124.6,0.8,1.0
+2025-12-26,Chicago Bulls,Philadelphia 76ers,109,102,1,1,130.0,122.2,1.0,1.0
+2025-12-27,Chicago Bulls,Milwaukee Bucks,103,112,1,0,125.2,122.4,0.8,0.0
+2025-10-29,Cleveland Cavaliers,Boston Celtics,105,125,0,0,116.2,115.2,0.6,0.0
+2025-10-31,Cleveland Cavaliers,Toronto Raptors,101,112,1,0,114.2,113.8,0.6,0.0
+2025-11-02,Cleveland Cavaliers,Atlanta Hawks,117,109,1,1,111.4,110.8,0.6,1.0
+2025-11-05,Cleveland Cavaliers,Philadelphia 76ers,132,121,1,1,114.2,112.4,0.6,1.0
+2025-11-07,Cleveland Cavaliers,Washington Wizards,148,115,0,1,120.6,116.4,0.6,1.0
+2025-11-08,Cleveland Cavaliers,Chicago Bulls,128,122,1,1,125.2,115.8,0.8,1.0
+2025-11-10,Cleveland Cavaliers,Miami Heat,138,140,0,0,132.6,121.4,0.8,0.0
+2025-11-12,Cleveland Cavaliers,Miami Heat,130,116,0,1,135.2,122.8,0.8,0.5
+2025-11-13,Cleveland Cavaliers,Toronto Raptors,113,126,1,0,131.4,123.8,0.6,0.0
+2025-11-15,Cleveland Cavaliers,Memphis Grizzlies,108,100,1,1,123.4,120.8,0.6,1.0
+2025-11-17,Cleveland Cavaliers,Milwaukee Bucks,118,106,1,1,121.4,117.6,0.6,1.0
+2025-11-19,Cleveland Cavaliers,Houston Rockets,104,114,1,0,114.6,112.4,0.6,0.0
+2025-11-21,Cleveland Cavaliers,Indiana Pacers,120,109,1,1,112.6,111.0,0.6,1.0
+2025-11-23,Cleveland Cavaliers,Los Angeles Clippers,120,105,1,1,114.0,106.8,0.8,1.0
+2025-11-24,Cleveland Cavaliers,Toronto Raptors,99,110,0,0,112.2,108.8,0.6,0.0
+2025-11-28,Cleveland Cavaliers,Atlanta Hawks,123,130,0,0,113.2,113.6,0.4,0.5
+2025-11-30,Cleveland Cavaliers,Boston Celtics,115,117,1,0,115.4,114.2,0.4,0.0
+2025-12-01,Cleveland Cavaliers,Indiana Pacers,135,119,0,1,118.4,116.2,0.4,1.0
+2025-12-03,Cleveland Cavaliers,Portland Trail Blazers,110,122,1,0,116.4,119.6,0.2,0.0
+2025-12-05,Cleveland Cavaliers,San Antonio Spurs,130,117,1,1,122.6,121.0,0.4,1.0
+2025-12-06,Cleveland Cavaliers,Golden State Warriors,94,99,1,0,116.8,114.8,0.4,0.0
+2025-12-12,Cleveland Cavaliers,Washington Wizards,130,126,0,1,119.8,116.6,0.6,1.0
+2025-12-14,Cleveland Cavaliers,Charlotte Hornets,111,119,1,0,115.0,116.6,0.4,0.0
+2025-12-17,Cleveland Cavaliers,Chicago Bulls,111,127,0,0,115.2,117.6,0.4,0.5
+2025-12-19,Cleveland Cavaliers,Chicago Bulls,125,136,1,0,114.2,121.4,0.2,0.3333333333333333
+2025-12-22,Cleveland Cavaliers,Charlotte Hornets,139,132,1,1,123.2,128.0,0.4,0.5
+2025-12-23,Cleveland Cavaliers,New Orleans Pelicans,141,118,1,1,125.4,126.4,0.4,1.0
+2025-12-25,Cleveland Cavaliers,New York Knicks,124,126,0,0,128.0,127.8,0.4,0.0
+2025-12-27,Cleveland Cavaliers,Houston Rockets,100,117,0,0,125.8,125.8,0.4,0.0
+2025-10-29,Dallas Mavericks,Indiana Pacers,107,105,1,1,107.8,115.4,0.4,1.0
+2025-11-01,Dallas Mavericks,Detroit Pistons,110,122,0,0,111.4,114.8,0.4,0.0
+2025-11-03,Dallas Mavericks,Houston Rockets,102,110,0,0,110.4,113.4,0.4,0.0
+2025-11-05,Dallas Mavericks,New Orleans Pelicans,99,101,1,0,102.4,107.8,0.2,0.0
+2025-11-07,Dallas Mavericks,Memphis Grizzlies,104,118,0,0,104.4,111.2,0.2,0.0
+2025-11-08,Dallas Mavericks,Washington Wizards,111,105,0,1,105.2,111.2,0.2,0.5
+2025-11-10,Dallas Mavericks,Milwaukee Bucks,114,116,1,0,106.0,110.0,0.2,0.0
+2025-11-12,Dallas Mavericks,Phoenix Suns,114,123,1,0,108.4,112.6,0.2,0.0
+2025-11-14,Dallas Mavericks,Los Angeles Clippers,127,133,1,0,114.0,119.0,0.2,0.0
+2025-11-16,Dallas Mavericks,Portland Trail Blazers,138,133,1,1,120.8,122.0,0.4,1.0
+2025-11-17,Dallas Mavericks,Minnesota Timberwolves,96,120,0,0,117.8,125.0,0.2,0.0
+2025-11-19,Dallas Mavericks,New York Knicks,111,113,1,0,117.2,124.4,0.2,0.0
+2025-11-21,Dallas Mavericks,New Orleans Pelicans,118,115,1,1,118.0,122.8,0.4,0.5
+2025-11-22,Dallas Mavericks,Memphis Grizzlies,96,102,1,0,111.8,116.6,0.4,0.0
+2025-11-24,Dallas Mavericks,Miami Heat,102,106,0,0,104.6,111.2,0.2,0.0
+2025-11-28,Dallas Mavericks,Los Angeles Lakers,119,129,0,0,109.2,113.0,0.2,0.0
+2025-11-29,Dallas Mavericks,Los Angeles Clippers,114,110,0,1,109.8,112.4,0.4,0.5
+2025-12-01,Dallas Mavericks,Denver Nuggets,131,121,0,1,112.4,113.6,0.4,1.0
+2025-12-03,Dallas Mavericks,Miami Heat,118,108,1,1,116.8,114.8,0.6,0.5
+2025-12-05,Dallas Mavericks,Oklahoma City Thunder,111,132,0,0,118.6,120.0,0.6,0.0
+2025-12-06,Dallas Mavericks,Houston Rockets,122,109,1,1,119.2,116.0,0.8,0.5
+2025-12-12,Dallas Mavericks,Brooklyn Nets,119,111,1,1,120.2,116.2,0.8,1.0
+2025-12-15,Dallas Mavericks,Utah Jazz,133,140,0,0,120.6,120.0,0.6,0.0
+2025-12-18,Dallas Mavericks,Detroit Pistons,116,114,1,1,120.2,121.2,0.6,0.5
+2025-12-20,Dallas Mavericks,Philadelphia 76ers,114,121,0,0,120.8,119.0,0.6,0.0
+2025-12-22,Dallas Mavericks,New Orleans Pelicans,113,119,0,0,119.0,121.0,0.4,0.3333333333333333
+2025-12-23,Dallas Mavericks,Denver Nuggets,131,130,1,1,121.4,124.8,0.4,1.0
+2025-12-25,Dallas Mavericks,Golden State Warriors,116,126,0,0,118.0,122.0,0.4,0.0
+2025-12-27,Dallas Mavericks,Sacramento Kings,107,113,0,0,116.2,121.8,0.2,0.0
+2025-10-31,Denver Nuggets,Portland Trail Blazers,107,109,0,0,124.0,111.8,0.6,0.0
+2025-11-03,Denver Nuggets,Sacramento Kings,130,124,1,1,123.8,109.2,0.8,1.0
+2025-11-05,Denver Nuggets,Miami Heat,122,112,1,1,121.6,109.4,0.8,1.0
+2025-11-07,Denver Nuggets,Golden State Warriors,129,104,1,1,122.0,107.4,0.8,0.5
+2025-11-08,Denver Nuggets,Indiana Pacers,117,100,1,1,121.0,109.8,0.8,1.0
+2025-11-11,Denver Nuggets,Sacramento Kings,122,108,0,1,124.0,109.6,1.0,1.0
+2025-11-12,Denver Nuggets,Los Angeles Clippers,130,116,0,1,124.0,108.0,1.0,1.0
+2025-11-15,Denver Nuggets,Minnesota Timberwolves,123,112,0,1,124.2,108.0,1.0,1.0
+2025-11-17,Denver Nuggets,Chicago Bulls,127,130,1,0,123.8,113.2,0.8,0.0
+2025-11-19,Denver Nuggets,New Orleans Pelicans,125,118,0,1,125.4,116.8,0.8,1.0
+2025-11-21,Denver Nuggets,Houston Rockets,112,109,0,1,123.4,117.0,0.8,1.0
+2025-11-22,Denver Nuggets,Sacramento Kings,123,128,1,0,122.0,119.4,0.6,0.6666666666666666
+2025-11-24,Denver Nuggets,Memphis Grizzlies,125,115,0,1,122.4,120.0,0.6,1.0
+2025-11-28,Denver Nuggets,San Antonio Spurs,136,139,1,0,124.2,121.8,0.6,0.0
+2025-11-29,Denver Nuggets,Phoenix Suns,130,112,0,1,125.2,120.6,0.6,1.0
+2025-12-01,Denver Nuggets,Dallas Mavericks,121,131,1,0,127.0,125.0,0.4,0.0
+2025-12-03,Denver Nuggets,Indiana Pacers,135,120,0,1,129.4,123.4,0.6,1.0
+2025-12-05,Denver Nuggets,Atlanta Hawks,134,133,0,1,131.2,127.0,0.6,1.0
+2025-12-07,Denver Nuggets,Charlotte Hornets,115,106,0,1,127.0,120.4,0.8,1.0
+2025-12-11,Denver Nuggets,Sacramento Kings,136,105,0,1,128.2,119.0,0.8,0.75
+2025-12-15,Denver Nuggets,Houston Rockets,128,125,1,1,129.6,117.8,1.0,1.0
+2025-12-18,Denver Nuggets,Orlando Magic,126,115,1,1,127.8,116.8,1.0,1.0
+2025-12-20,Denver Nuggets,Houston Rockets,101,115,1,0,121.2,113.2,0.8,0.6666666666666666
+2025-12-22,Denver Nuggets,Utah Jazz,135,112,1,1,125.2,114.4,0.8,1.0
+2025-12-23,Denver Nuggets,Dallas Mavericks,130,131,0,0,124.0,119.6,0.6,0.0
+2025-12-25,Denver Nuggets,Minnesota Timberwolves,142,138,1,1,126.8,122.2,0.6,1.0
+2025-12-27,Denver Nuggets,Orlando Magic,126,127,0,0,126.8,124.6,0.4,0.5
+2025-10-29,Detroit Pistons,Orlando Magic,135,116,1,1,115.0,114.2,0.6,1.0
+2025-11-01,Detroit Pistons,Dallas Mavericks,122,110,1,1,117.2,113.2,0.8,1.0
+2025-11-03,Detroit Pistons,Memphis Grizzlies,114,106,0,1,117.0,112.2,0.8,1.0
+2025-11-05,Detroit Pistons,Utah Jazz,114,103,1,1,116.0,110.2,0.8,1.0
+2025-11-07,Detroit Pistons,Brooklyn Nets,125,107,0,1,122.0,108.4,1.0,1.0
+2025-11-09,Detroit Pistons,Philadelphia 76ers,111,108,0,1,117.2,106.8,1.0,1.0
+2025-11-10,Detroit Pistons,Washington Wizards,137,135,1,1,120.2,111.8,1.0,1.0
+2025-11-12,Detroit Pistons,Chicago Bulls,124,113,1,1,122.2,113.2,1.0,0.5
+2025-11-14,Detroit Pistons,Philadelphia 76ers,114,105,1,1,122.2,113.6,1.0,1.0
+2025-11-17,Detroit Pistons,Indiana Pacers,127,112,1,1,122.6,114.6,1.0,1.0
+2025-11-18,Detroit Pistons,Atlanta Hawks,120,112,0,1,124.4,115.4,1.0,1.0
+2025-11-22,Detroit Pistons,Milwaukee Bucks,129,116,0,1,122.8,111.6,1.0,1.0
+2025-11-24,Detroit Pistons,Indiana Pacers,122,117,0,1,122.4,112.4,1.0,1.0
+2025-11-26,Detroit Pistons,Boston Celtics,114,117,0,0,122.4,114.8,0.8,0.5
+2025-11-28,Detroit Pistons,Orlando Magic,109,112,1,0,118.8,114.8,0.6,0.5
+2025-11-29,Detroit Pistons,Miami Heat,138,135,0,1,122.4,119.4,0.6,1.0
+2025-12-01,Detroit Pistons,Atlanta Hawks,99,98,1,1,116.4,115.8,0.6,1.0
+2025-12-03,Detroit Pistons,Milwaukee Bucks,109,113,0,0,113.8,115.0,0.4,0.5
+2025-12-05,Detroit Pistons,Portland Trail Blazers,122,116,1,1,115.4,114.8,0.6,1.0
+2025-12-06,Detroit Pistons,Milwaukee Bucks,124,112,1,1,118.4,114.8,0.8,0.6666666666666666
+2025-12-12,Detroit Pistons,Atlanta Hawks,142,115,1,1,119.2,110.8,0.8,1.0
+2025-12-15,Detroit Pistons,Boston Celtics,112,105,0,1,121.8,112.2,0.8,0.6666666666666666
+2025-12-18,Detroit Pistons,Dallas Mavericks,114,116,0,0,122.8,112.8,0.8,0.5
+2025-12-20,Detroit Pistons,Charlotte Hornets,112,86,1,1,120.8,106.8,0.8,1.0
+2025-12-22,Detroit Pistons,Portland Trail Blazers,110,102,0,1,118.0,104.8,0.8,1.0
+2025-12-23,Detroit Pistons,Sacramento Kings,136,127,0,1,116.8,107.2,0.8,1.0
+2025-12-26,Detroit Pistons,Utah Jazz,129,131,0,0,120.2,112.4,0.6,0.5
+2025-10-28,Golden State Warriors,Los Angeles Clippers,98,79,1,1,120.8,115.2,0.8,1.0
+2025-10-30,Golden State Warriors,Milwaukee Bucks,110,120,0,0,119.0,117.4,0.6,0.0
+2025-11-01,Golden State Warriors,Indiana Pacers,109,114,0,0,113.4,114.0,0.4,0.0
+2025-11-04,Golden State Warriors,Phoenix Suns,118,107,1,1,113.2,107.6,0.6,1.0
+2025-11-05,Golden State Warriors,Sacramento Kings,116,121,0,0,110.2,108.2,0.4,0.0
+2025-11-07,Golden State Warriors,Denver Nuggets,104,129,0,0,111.4,118.2,0.2,0.5
+2025-11-09,Golden State Warriors,Indiana Pacers,114,83,1,1,112.2,110.8,0.4,0.5
+2025-11-11,Golden State Warriors,Oklahoma City Thunder,102,126,0,0,110.8,113.2,0.4,0.0
+2025-11-12,Golden State Warriors,San Antonio Spurs,125,120,0,1,112.2,115.8,0.4,1.0
+2025-11-14,Golden State Warriors,San Antonio Spurs,109,108,0,1,110.8,113.2,0.6,1.0
+2025-11-16,Golden State Warriors,New Orleans Pelicans,124,106,0,1,114.8,108.6,0.8,1.0
+2025-11-18,Golden State Warriors,Orlando Magic,113,121,0,0,114.6,116.2,0.6,0.0
+2025-11-19,Golden State Warriors,Miami Heat,96,110,0,0,113.4,113.0,0.6,0.0
+2025-11-21,Golden State Warriors,Portland Trail Blazers,123,127,1,0,113.0,114.4,0.4,0.0
+2025-11-24,Golden State Warriors,Utah Jazz,134,117,1,1,118.0,116.2,0.4,1.0
+2025-11-26,Golden State Warriors,Houston Rockets,100,104,1,0,113.2,115.8,0.2,0.0
+2025-11-29,Golden State Warriors,New Orleans Pelicans,104,96,1,1,111.4,110.8,0.4,1.0
+2025-12-02,Golden State Warriors,Oklahoma City Thunder,112,124,1,0,114.6,113.6,0.4,0.0
+2025-12-04,Golden State Warriors,Philadelphia 76ers,98,99,0,0,109.6,108.0,0.4,0.0
+2025-12-06,Golden State Warriors,Cleveland Cavaliers,99,94,0,1,102.6,103.4,0.4,1.0
+2025-12-07,Golden State Warriors,Chicago Bulls,123,91,0,1,107.2,100.8,0.6,1.0
+2025-12-12,Golden State Warriors,Minnesota Timberwolves,120,127,1,0,110.4,107.0,0.4,0.0
+2025-12-14,Golden State Warriors,Portland Trail Blazers,131,136,0,0,114.2,109.4,0.4,0.0
+2025-12-18,Golden State Warriors,Phoenix Suns,98,99,0,0,114.2,109.4,0.4,0.5
+2025-12-20,Golden State Warriors,Phoenix Suns,119,116,1,1,118.2,113.8,0.4,0.6666666666666666
+2025-12-22,Golden State Warriors,Orlando Magic,120,97,1,1,117.6,115.0,0.4,0.5
+2025-12-25,Golden State Warriors,Dallas Mavericks,126,116,1,1,118.8,112.8,0.6,1.0
+2025-11-01,Houston Rockets,Boston Celtics,128,101,0,1,127.8,114.2,0.6,1.0
+2025-11-03,Houston Rockets,Dallas Mavericks,110,102,1,1,125.0,109.6,0.8,1.0
+2025-11-05,Houston Rockets,Memphis Grizzlies,124,109,0,1,127.6,108.4,1.0,1.0
+2025-11-07,Houston Rockets,San Antonio Spurs,110,121,0,0,122.2,110.8,0.8,0.0
+2025-11-09,Houston Rockets,Milwaukee Bucks,122,115,0,1,118.8,109.6,0.8,1.0
+2025-11-12,Houston Rockets,Washington Wizards,135,112,1,1,120.2,111.8,0.8,1.0
+2025-11-14,Houston Rockets,Portland Trail Blazers,140,116,1,1,126.2,114.6,0.8,1.0
+2025-11-16,Houston Rockets,Orlando Magic,117,113,1,1,124.8,115.4,0.8,1.0
+2025-11-19,Houston Rockets,Cleveland Cavaliers,114,104,0,1,125.6,112.0,1.0,1.0
+2025-11-21,Houston Rockets,Denver Nuggets,109,112,1,0,123.0,111.4,0.8,0.0
+2025-11-24,Houston Rockets,Phoenix Suns,114,92,0,1,118.8,107.4,0.8,1.0
+2025-11-26,Houston Rockets,Golden State Warriors,104,100,0,1,111.6,104.2,0.8,1.0
+2025-11-30,Houston Rockets,Utah Jazz,129,101,0,1,114.0,101.8,0.8,1.0
+2025-12-01,Houston Rockets,Utah Jazz,125,133,0,0,116.2,107.6,0.6,0.5
+2025-12-03,Houston Rockets,Sacramento Kings,121,95,1,1,118.6,104.2,0.8,1.0
+2025-12-05,Houston Rockets,Phoenix Suns,117,98,1,1,119.2,105.4,0.8,1.0
+2025-12-06,Houston Rockets,Dallas Mavericks,109,122,0,0,120.2,109.8,0.6,0.5
+2025-12-11,Houston Rockets,Los Angeles Clippers,115,113,1,1,117.4,112.2,0.6,1.0
+2025-12-15,Houston Rockets,Denver Nuggets,125,128,0,0,117.4,111.2,0.6,0.0
+2025-12-18,Houston Rockets,New Orleans Pelicans,128,133,0,0,118.8,118.8,0.4,0.0
+2025-12-20,Houston Rockets,Denver Nuggets,115,101,0,1,118.4,119.4,0.4,0.3333333333333333
+2025-12-21,Houston Rockets,Sacramento Kings,124,125,0,0,121.4,120.0,0.4,0.5
+2025-12-23,Houston Rockets,Los Angeles Clippers,108,128,0,0,120.0,123.0,0.2,0.5
+2025-12-25,Houston Rockets,Los Angeles Lakers,119,96,0,1,118.8,116.6,0.4,1.0
+2025-12-27,Houston Rockets,Cleveland Cavaliers,117,100,1,1,116.6,110.0,0.6,1.0
+2025-10-31,Indiana Pacers,Atlanta Hawks,108,128,1,0,112.2,123.6,0.0,0.0
+2025-11-01,Indiana Pacers,Golden State Warriors,114,109,1,1,108.0,117.2,0.2,1.0
+2025-11-03,Indiana Pacers,Milwaukee Bucks,115,117,1,0,110.4,115.0,0.2,0.0
+2025-11-05,Indiana Pacers,Brooklyn Nets,103,112,1,0,109.0,114.6,0.2,0.0
+2025-11-08,Indiana Pacers,Denver Nuggets,100,117,0,0,108.0,116.6,0.2,0.0
+2025-11-09,Indiana Pacers,Golden State Warriors,83,114,0,0,103.0,113.8,0.2,0.5
+2025-11-11,Indiana Pacers,Utah Jazz,128,152,0,0,105.8,122.4,0.0,0.0
+2025-11-13,Indiana Pacers,Phoenix Suns,98,133,0,0,102.4,125.6,0.0,0.0
+2025-11-15,Indiana Pacers,Toronto Raptors,111,129,1,0,104.0,129.0,0.0,0.0
+2025-11-17,Indiana Pacers,Detroit Pistons,112,127,0,0,106.4,131.0,0.0,0.0
+2025-11-19,Indiana Pacers,Charlotte Hornets,127,118,1,1,115.2,131.8,0.2,1.0
+2025-11-21,Indiana Pacers,Cleveland Cavaliers,109,120,0,0,111.4,125.4,0.2,0.0
+2025-11-24,Indiana Pacers,Detroit Pistons,117,122,1,0,115.2,123.2,0.2,0.0
+2025-11-26,Indiana Pacers,Toronto Raptors,95,97,0,0,112.0,116.8,0.2,0.0
+2025-11-28,Indiana Pacers,Washington Wizards,119,86,1,1,113.4,108.6,0.4,1.0
+2025-11-29,Indiana Pacers,Chicago Bulls,103,101,1,1,108.6,105.2,0.4,1.0
+2025-12-01,Indiana Pacers,Cleveland Cavaliers,119,135,1,0,110.6,108.2,0.4,0.0
+2025-12-03,Indiana Pacers,Denver Nuggets,120,135,1,0,111.2,110.8,0.4,0.0
+2025-12-05,Indiana Pacers,Chicago Bulls,120,105,0,1,116.2,112.4,0.6,1.0
+2025-12-08,Indiana Pacers,Sacramento Kings,116,105,1,1,115.6,116.2,0.6,1.0
+2025-12-12,Indiana Pacers,Philadelphia 76ers,105,115,0,0,116.0,119.0,0.4,0.0
+2025-12-14,Indiana Pacers,Washington Wizards,89,108,1,0,110.0,113.6,0.4,0.5
+2025-12-18,Indiana Pacers,New York Knicks,113,114,1,0,108.6,109.4,0.4,0.0
+2025-12-20,Indiana Pacers,New Orleans Pelicans,109,128,0,0,106.4,114.0,0.2,0.0
+2025-12-22,Indiana Pacers,Boston Celtics,95,103,0,0,102.2,113.6,0.0,0.0
+2025-12-23,Indiana Pacers,Milwaukee Bucks,94,111,1,0,100.0,112.8,0.0,0.0
+2025-12-26,Indiana Pacers,Boston Celtics,122,140,1,0,106.6,119.2,0.0,0.0
+2025-12-27,Indiana Pacers,Miami Heat,116,142,0,0,107.2,124.8,0.0,0.0
+2025-10-31,Los Angeles Clippers,New Orleans Pelicans,126,124,1,1,111.2,112.0,0.6,1.0
+2025-11-03,Los Angeles Clippers,Miami Heat,119,120,1,0,113.4,110.2,0.6,0.0
+2025-11-04,Los Angeles Clippers,Oklahoma City Thunder,107,126,1,0,109.0,115.0,0.4,0.0
+2025-11-06,Los Angeles Clippers,Phoenix Suns,102,115,0,0,106.6,116.6,0.2,0.5
+2025-11-08,Los Angeles Clippers,Phoenix Suns,103,114,1,0,111.4,119.8,0.2,0.3333333333333333
+2025-11-10,Los Angeles Clippers,Atlanta Hawks,102,105,1,0,106.6,116.0,0.0,0.0
+2025-11-12,Los Angeles Clippers,Denver Nuggets,116,130,1,0,106.0,118.0,0.0,0.0
+2025-11-14,Los Angeles Clippers,Dallas Mavericks,133,127,0,1,111.2,118.2,0.2,1.0
+2025-11-16,Los Angeles Clippers,Boston Celtics,118,121,0,0,114.4,119.4,0.2,0.0
+2025-11-17,Los Angeles Clippers,Philadelphia 76ers,108,110,0,0,115.4,118.6,0.2,0.0
+2025-11-20,Los Angeles Clippers,Orlando Magic,101,129,0,0,115.2,123.4,0.2,0.0
+2025-11-22,Los Angeles Clippers,Charlotte Hornets,131,116,0,1,118.2,120.6,0.4,1.0
+2025-11-23,Los Angeles Clippers,Cleveland Cavaliers,105,120,0,0,112.6,119.2,0.2,0.0
+2025-11-25,Los Angeles Clippers,Los Angeles Lakers,118,135,0,0,112.6,122.0,0.2,0.0
+2025-11-28,Los Angeles Clippers,Memphis Grizzlies,107,112,1,0,112.4,122.4,0.2,0.0
+2025-11-29,Los Angeles Clippers,Dallas Mavericks,110,114,1,0,114.2,119.4,0.2,0.5
+2025-12-01,Los Angeles Clippers,Miami Heat,123,140,0,0,112.6,124.2,0.0,0.0
+2025-12-03,Los Angeles Clippers,Atlanta Hawks,115,92,0,1,114.6,118.6,0.2,0.5
+2025-12-05,Los Angeles Clippers,Memphis Grizzlies,98,107,0,0,110.6,113.0,0.2,0.0
+2025-12-06,Los Angeles Clippers,Minnesota Timberwolves,106,109,0,0,110.4,112.4,0.2,0.0
+2025-12-11,Los Angeles Clippers,Houston Rockets,113,115,0,0,111.0,112.6,0.2,0.0
+2025-12-15,Los Angeles Clippers,Memphis Grizzlies,103,121,1,0,107.0,108.8,0.2,0.0
+2025-12-18,Los Angeles Clippers,Oklahoma City Thunder,101,122,0,0,104.2,114.8,0.0,0.0
+2025-12-20,Los Angeles Clippers,Los Angeles Lakers,103,88,1,1,105.2,111.0,0.2,0.5
+2025-12-23,Los Angeles Clippers,Houston Rockets,128,108,1,1,109.6,110.8,0.4,0.5
+2025-12-26,Los Angeles Clippers,Portland Trail Blazers,119,103,0,1,110.8,108.4,0.6,1.0
+2025-10-29,Los Angeles Lakers,Minnesota Timberwolves,116,115,0,1,117.6,117.2,0.6,1.0
+2025-10-31,Los Angeles Lakers,Memphis Grizzlies,117,112,0,1,119.2,115.8,0.8,1.0
+2025-11-02,Los Angeles Lakers,Miami Heat,130,120,1,1,119.6,117.8,0.8,1.0
+2025-11-03,Los Angeles Lakers,Portland Trail Blazers,123,115,0,1,118.8,116.8,0.8,0.5
+2025-11-05,Los Angeles Lakers,San Antonio Spurs,118,116,1,1,120.8,115.6,1.0,1.0
+2025-11-08,Los Angeles Lakers,Atlanta Hawks,102,122,0,0,118.0,117.0,0.8,0.0
+2025-11-10,Los Angeles Lakers,Charlotte Hornets,121,111,0,1,118.8,116.8,0.8,1.0
+2025-11-12,Los Angeles Lakers,Oklahoma City Thunder,92,121,0,0,111.2,117.0,0.6,0.0
+2025-11-14,Los Angeles Lakers,New Orleans Pelicans,118,104,0,1,110.2,114.8,0.6,1.0
+2025-11-15,Los Angeles Lakers,Milwaukee Bucks,119,95,0,1,110.4,110.6,0.6,1.0
+2025-11-18,Los Angeles Lakers,Utah Jazz,140,126,1,1,118.0,111.4,0.8,1.0
+2025-11-23,Los Angeles Lakers,Utah Jazz,108,106,0,1,115.4,110.4,0.8,1.0
+2025-11-25,Los Angeles Lakers,Los Angeles Clippers,135,118,1,1,124.0,109.8,1.0,1.0
+2025-11-28,Los Angeles Lakers,Dallas Mavericks,129,119,1,1,126.2,112.8,1.0,1.0
+2025-11-30,Los Angeles Lakers,New Orleans Pelicans,133,121,1,1,129.0,118.0,1.0,1.0
+2025-12-01,Los Angeles Lakers,Phoenix Suns,108,125,1,0,122.6,117.8,0.8,0.0
+2025-12-04,Los Angeles Lakers,Toronto Raptors,123,120,0,1,125.6,120.6,0.8,1.0
+2025-12-05,Los Angeles Lakers,Boston Celtics,105,126,0,0,119.6,122.2,0.6,0.0
+2025-12-07,Los Angeles Lakers,Philadelphia 76ers,112,108,0,1,116.2,120.0,0.6,1.0
+2025-12-10,Los Angeles Lakers,San Antonio Spurs,119,132,1,0,113.4,122.2,0.4,0.5
+2025-12-14,Los Angeles Lakers,Phoenix Suns,116,114,0,1,115.0,120.0,0.6,0.5
+2025-12-18,Los Angeles Lakers,Utah Jazz,143,135,0,1,119.0,123.0,0.6,1.0
+2025-12-20,Los Angeles Lakers,Los Angeles Clippers,88,103,0,0,115.6,118.4,0.6,0.5
+2025-12-23,Los Angeles Lakers,Phoenix Suns,108,132,0,0,114.8,123.2,0.4,0.3333333333333333
+2025-12-25,Los Angeles Lakers,Houston Rockets,96,119,1,0,110.2,120.6,0.4,0.0
+2025-10-29,Memphis Grizzlies,Phoenix Suns,114,113,0,1,120.4,123.0,0.6,1.0
+2025-10-31,Memphis Grizzlies,Los Angeles Lakers,112,117,1,0,117.2,122.0,0.4,0.0
+2025-11-02,Memphis Grizzlies,Toronto Raptors,104,117,0,0,115.2,116.2,0.4,0.0
+2025-11-03,Memphis Grizzlies,Detroit Pistons,106,114,1,0,110.8,118.4,0.2,0.0
+2025-11-05,Memphis Grizzlies,Houston Rockets,109,124,1,0,109.0,117.0,0.2,0.0
+2025-11-07,Memphis Grizzlies,Dallas Mavericks,118,104,1,1,109.8,115.2,0.2,1.0
+2025-11-09,Memphis Grizzlies,Oklahoma City Thunder,100,114,1,0,107.4,114.6,0.2,0.0
+2025-11-11,Memphis Grizzlies,New York Knicks,120,133,0,0,110.6,117.8,0.2,0.0
+2025-11-12,Memphis Grizzlies,Boston Celtics,95,131,0,0,108.4,121.2,0.2,0.0
+2025-11-15,Memphis Grizzlies,Cleveland Cavaliers,100,108,0,0,106.6,118.0,0.2,0.0
+2025-11-18,Memphis Grizzlies,San Antonio Spurs,101,111,0,0,103.2,119.4,0.0,0.0
+2025-11-20,Memphis Grizzlies,Sacramento Kings,137,96,1,1,110.6,115.8,0.2,1.0
+2025-11-22,Memphis Grizzlies,Dallas Mavericks,102,96,0,1,107.0,108.4,0.4,1.0
+2025-11-24,Memphis Grizzlies,Denver Nuggets,115,125,1,0,111.0,107.2,0.4,0.0
+2025-11-26,Memphis Grizzlies,New Orleans Pelicans,133,128,0,1,117.6,111.2,0.6,1.0
+2025-11-28,Memphis Grizzlies,Los Angeles Clippers,112,107,0,1,119.8,110.4,0.8,1.0
+2025-11-30,Memphis Grizzlies,Sacramento Kings,115,107,0,1,115.4,112.6,0.8,1.0
+2025-12-02,Memphis Grizzlies,San Antonio Spurs,119,126,0,0,118.8,118.6,0.6,0.0
+2025-12-05,Memphis Grizzlies,Los Angeles Clippers,107,98,1,1,117.2,113.2,0.8,1.0
+2025-12-07,Memphis Grizzlies,Portland Trail Blazers,119,96,1,1,114.4,106.8,0.8,1.0
+2025-12-12,Memphis Grizzlies,Utah Jazz,126,130,1,0,117.2,111.4,0.6,0.0
+2025-12-15,Memphis Grizzlies,Los Angeles Clippers,121,103,0,1,118.4,110.6,0.6,1.0
+2025-12-17,Memphis Grizzlies,Minnesota Timberwolves,116,110,0,1,117.8,107.4,0.8,1.0
+2025-12-20,Memphis Grizzlies,Washington Wizards,122,130,1,0,120.8,113.8,0.6,0.0
+2025-12-22,Memphis Grizzlies,Oklahoma City Thunder,103,119,0,0,117.6,118.4,0.4,0.0
+2025-12-23,Memphis Grizzlies,Utah Jazz,137,128,0,1,119.8,118.0,0.6,0.5
+2025-12-26,Memphis Grizzlies,Milwaukee Bucks,125,104,1,1,120.6,118.2,0.6,1.0
+2025-10-30,Miami Heat,San Antonio Spurs,101,107,0,0,125.4,114.0,0.6,0.0
+2025-11-02,Miami Heat,Los Angeles Lakers,120,130,0,0,125.2,115.0,0.6,0.0
+2025-11-03,Miami Heat,Los Angeles Clippers,120,119,0,1,120.0,116.0,0.6,1.0
+2025-11-05,Miami Heat,Denver Nuggets,112,122,0,0,119.4,119.0,0.4,0.0
+2025-11-07,Miami Heat,Charlotte Hornets,126,108,1,1,115.8,117.2,0.4,1.0
+2025-11-08,Miami Heat,Portland Trail Blazers,136,131,1,1,122.8,122.0,0.6,1.0
+2025-11-10,Miami Heat,Cleveland Cavaliers,140,138,1,1,126.8,123.6,0.8,1.0
+2025-11-12,Miami Heat,Cleveland Cavaliers,116,130,1,0,126.0,125.8,0.6,0.5
+2025-11-14,Miami Heat,New York Knicks,132,140,0,0,130.0,129.4,0.6,0.5
+2025-11-17,Miami Heat,New York Knicks,115,113,1,1,127.8,130.4,0.6,0.6666666666666666
+2025-11-19,Miami Heat,Golden State Warriors,110,96,1,1,122.6,123.4,0.6,1.0
+2025-11-21,Miami Heat,Chicago Bulls,143,107,0,1,123.2,117.2,0.6,1.0
+2025-11-23,Miami Heat,Philadelphia 76ers,127,117,0,1,125.4,114.6,0.8,1.0
+2025-11-24,Miami Heat,Dallas Mavericks,106,102,1,1,120.2,107.0,1.0,1.0
+2025-11-26,Miami Heat,Milwaukee Bucks,106,103,1,1,118.4,105.0,1.0,1.0
+2025-11-29,Miami Heat,Detroit Pistons,135,138,1,0,123.4,113.4,0.8,0.0
+2025-12-01,Miami Heat,Los Angeles Clippers,140,123,1,1,122.8,116.6,0.8,1.0
+2025-12-03,Miami Heat,Dallas Mavericks,108,118,0,0,119.0,116.8,0.6,0.5
+2025-12-05,Miami Heat,Orlando Magic,105,106,0,0,118.8,117.6,0.4,0.0
+2025-12-06,Miami Heat,Sacramento Kings,111,127,1,0,119.8,122.4,0.2,0.0
+2025-12-09,Miami Heat,Orlando Magic,108,117,0,0,114.4,118.2,0.2,0.0
+2025-12-15,Miami Heat,Toronto Raptors,96,106,1,0,105.6,114.8,0.0,0.0
+2025-12-18,Miami Heat,Brooklyn Nets,106,95,0,1,105.2,110.2,0.2,1.0
+2025-12-19,Miami Heat,Boston Celtics,116,129,0,0,107.4,114.8,0.2,0.0
+2025-12-21,Miami Heat,New York Knicks,125,132,0,0,110.2,115.8,0.2,0.5
+2025-12-23,Miami Heat,Toronto Raptors,91,112,1,0,106.8,114.8,0.2,0.0
+2025-12-26,Miami Heat,Atlanta Hawks,126,111,0,1,112.8,115.8,0.4,1.0
+2025-12-27,Miami Heat,Indiana Pacers,142,116,1,1,120.0,120.0,0.4,1.0
+2025-10-30,Milwaukee Bucks,Golden State Warriors,120,110,1,1,121.8,115.0,0.8,1.0
+2025-11-01,Milwaukee Bucks,Sacramento Kings,133,135,1,0,121.8,118.0,0.6,0.0
+2025-11-03,Milwaukee Bucks,Indiana Pacers,117,115,0,1,120.8,117.8,0.6,1.0
+2025-11-04,Milwaukee Bucks,Toronto Raptors,100,128,0,0,118.2,119.8,0.6,0.5
+2025-11-07,Milwaukee Bucks,Chicago Bulls,126,110,1,1,119.2,119.6,0.6,1.0
+2025-11-09,Milwaukee Bucks,Houston Rockets,115,122,1,0,118.2,122.0,0.4,0.0
+2025-11-10,Milwaukee Bucks,Dallas Mavericks,116,114,0,1,114.8,117.8,0.6,1.0
+2025-11-12,Milwaukee Bucks,Charlotte Hornets,100,111,0,0,111.4,117.0,0.4,0.0
+2025-11-14,Milwaukee Bucks,Charlotte Hornets,147,134,1,1,120.8,118.2,0.6,0.5
+2025-11-15,Milwaukee Bucks,Los Angeles Lakers,95,119,1,0,114.6,120.0,0.4,0.0
+2025-11-17,Milwaukee Bucks,Cleveland Cavaliers,106,118,0,0,112.8,119.2,0.4,0.0
+2025-11-20,Milwaukee Bucks,Philadelphia 76ers,114,123,1,0,112.4,121.0,0.2,0.0
+2025-11-22,Milwaukee Bucks,Detroit Pistons,116,129,1,0,115.6,124.6,0.2,0.0
+2025-11-24,Milwaukee Bucks,Portland Trail Blazers,103,115,1,0,106.8,120.8,0.0,0.0
+2025-11-26,Milwaukee Bucks,Miami Heat,103,106,0,0,108.4,118.2,0.0,0.0
+2025-11-28,Milwaukee Bucks,New York Knicks,109,118,0,0,109.0,118.2,0.0,0.5
+2025-11-29,Milwaukee Bucks,Brooklyn Nets,116,99,1,1,109.4,113.4,0.2,1.0
+2025-12-01,Milwaukee Bucks,Washington Wizards,126,129,0,0,111.4,113.4,0.2,0.5
+2025-12-03,Milwaukee Bucks,Detroit Pistons,113,109,1,1,113.4,112.2,0.4,0.5
+2025-12-05,Milwaukee Bucks,Philadelphia 76ers,101,116,1,0,113.0,114.2,0.4,0.0
+2025-12-06,Milwaukee Bucks,Detroit Pistons,112,124,0,0,113.6,115.4,0.4,0.3333333333333333
+2025-12-11,Milwaukee Bucks,Boston Celtics,116,101,1,1,113.6,115.8,0.4,1.0
+2025-12-14,Milwaukee Bucks,Brooklyn Nets,82,127,0,0,104.8,115.4,0.4,0.5
+2025-12-18,Milwaukee Bucks,Toronto Raptors,105,111,1,0,103.2,115.8,0.2,0.3333333333333333
+2025-12-21,Milwaukee Bucks,Minnesota Timberwolves,100,103,0,0,103.0,113.2,0.2,0.0
+2025-12-23,Milwaukee Bucks,Indiana Pacers,111,94,0,1,102.8,107.2,0.4,1.0
+2025-12-26,Milwaukee Bucks,Memphis Grizzlies,104,125,0,0,100.4,112.0,0.2,0.0
+2025-12-27,Milwaukee Bucks,Chicago Bulls,112,103,0,1,106.4,107.2,0.4,1.0
+2025-10-29,Minnesota Timberwolves,Los Angeles Lakers,115,116,1,0,114.2,119.0,0.4,0.0
+2025-11-01,Minnesota Timberwolves,Charlotte Hornets,122,105,0,1,115.0,117.2,0.4,1.0
+2025-11-03,Minnesota Timberwolves,Brooklyn Nets,125,109,0,1,118.0,113.4,0.6,1.0
+2025-11-05,Minnesota Timberwolves,New York Knicks,114,137,0,0,118.0,118.8,0.4,0.0
+2025-11-07,Minnesota Timberwolves,Utah Jazz,137,97,1,1,122.6,112.8,0.6,1.0
+2025-11-09,Minnesota Timberwolves,Sacramento Kings,144,117,0,1,128.4,113.0,0.8,1.0
+2025-11-10,Minnesota Timberwolves,Utah Jazz,120,113,0,1,128.0,114.6,0.8,1.0
+2025-11-14,Minnesota Timberwolves,Sacramento Kings,124,110,1,1,127.8,114.8,0.8,1.0
+2025-11-15,Minnesota Timberwolves,Denver Nuggets,112,123,1,0,127.4,112.0,0.8,0.0
+2025-11-17,Minnesota Timberwolves,Dallas Mavericks,120,96,1,1,124.0,111.8,0.8,1.0
+2025-11-19,Minnesota Timberwolves,Washington Wizards,120,109,1,1,119.2,110.2,0.8,1.0
+2025-11-21,Minnesota Timberwolves,Phoenix Suns,113,114,0,0,117.8,110.4,0.6,0.0
+2025-11-24,Minnesota Timberwolves,Sacramento Kings,112,117,0,0,115.4,111.8,0.4,0.6666666666666666
+2025-11-26,Minnesota Timberwolves,Oklahoma City Thunder,105,113,0,0,114.0,109.8,0.4,0.0
+2025-11-29,Minnesota Timberwolves,Boston Celtics,119,115,1,1,113.8,113.6,0.4,1.0
+2025-11-30,Minnesota Timberwolves,San Antonio Spurs,125,112,1,1,114.8,114.2,0.4,1.0
+2025-12-02,Minnesota Timberwolves,New Orleans Pelicans,149,142,0,1,122.0,119.8,0.6,1.0
+2025-12-04,Minnesota Timberwolves,New Orleans Pelicans,125,116,0,1,124.6,119.6,0.8,1.0
+2025-12-06,Minnesota Timberwolves,Los Angeles Clippers,109,106,1,1,125.4,118.2,1.0,1.0
+2025-12-08,Minnesota Timberwolves,Phoenix Suns,105,108,1,0,122.6,116.8,0.8,0.0
+2025-12-12,Minnesota Timberwolves,Golden State Warriors,127,120,0,1,123.0,118.4,0.8,1.0
+2025-12-14,Minnesota Timberwolves,Sacramento Kings,117,103,1,1,116.6,110.6,0.8,0.75
+2025-12-17,Minnesota Timberwolves,Memphis Grizzlies,110,116,1,0,113.6,110.6,0.6,0.0
+2025-12-19,Minnesota Timberwolves,Oklahoma City Thunder,112,107,1,1,114.2,110.8,0.6,0.5
+2025-12-21,Minnesota Timberwolves,Milwaukee Bucks,103,100,1,1,113.8,109.2,0.8,1.0
+2025-12-23,Minnesota Timberwolves,New York Knicks,115,104,1,1,111.4,106.0,0.8,0.5
+2025-12-25,Minnesota Timberwolves,Denver Nuggets,138,142,0,0,115.6,113.8,0.6,0.0
+2025-12-27,Minnesota Timberwolves,Brooklyn Nets,107,123,1,0,115.0,115.2,0.6,0.5
+2025-10-31,New Orleans Pelicans,Los Angeles Clippers,124,126,0,0,108.0,123.6,0.0,0.0
+2025-11-02,New Orleans Pelicans,Oklahoma City Thunder,106,137,0,0,104.8,125.4,0.0,0.0
+2025-11-04,New Orleans Pelicans,Charlotte Hornets,116,112,1,1,104.8,123.8,0.2,1.0
+2025-11-05,New Orleans Pelicans,Dallas Mavericks,101,99,0,1,107.0,119.2,0.4,1.0
+2025-11-08,New Orleans Pelicans,San Antonio Spurs,119,126,0,0,113.2,120.0,0.4,0.0
+2025-11-10,New Orleans Pelicans,Phoenix Suns,98,121,0,0,108.0,119.0,0.4,0.0
+2025-11-12,New Orleans Pelicans,Portland Trail Blazers,117,125,1,0,110.2,116.6,0.4,0.0
+2025-11-14,New Orleans Pelicans,Los Angeles Lakers,104,118,1,0,107.8,117.8,0.2,0.0
+2025-11-16,New Orleans Pelicans,Golden State Warriors,106,124,1,0,108.8,122.8,0.0,0.0
+2025-11-17,New Orleans Pelicans,Oklahoma City Thunder,109,126,1,0,106.8,122.8,0.0,0.0
+2025-11-19,New Orleans Pelicans,Denver Nuggets,118,125,1,0,110.8,123.6,0.0,0.0
+2025-11-21,New Orleans Pelicans,Dallas Mavericks,115,118,0,0,110.4,122.2,0.0,0.5
+2025-11-22,New Orleans Pelicans,Atlanta Hawks,98,115,1,0,109.2,121.6,0.0,0.0
+2025-11-24,New Orleans Pelicans,Chicago Bulls,143,130,1,1,116.6,122.8,0.2,1.0
+2025-11-26,New Orleans Pelicans,Memphis Grizzlies,128,133,1,0,120.4,124.2,0.2,0.0
+2025-11-29,New Orleans Pelicans,Golden State Warriors,96,104,0,0,116.0,120.0,0.2,0.0
+2025-11-30,New Orleans Pelicans,Los Angeles Lakers,121,133,0,0,117.2,123.0,0.2,0.0
+2025-12-02,New Orleans Pelicans,Minnesota Timberwolves,142,149,1,0,126.0,129.8,0.2,0.0
+2025-12-04,New Orleans Pelicans,Minnesota Timberwolves,116,125,1,0,120.6,128.8,0.0,0.0
+2025-12-06,New Orleans Pelicans,Brooklyn Nets,101,119,0,0,115.2,126.0,0.0,0.0
+2025-12-08,New Orleans Pelicans,San Antonio Spurs,132,135,1,0,122.4,132.2,0.0,0.0
+2025-12-11,New Orleans Pelicans,Portland Trail Blazers,143,120,1,1,126.8,129.6,0.2,0.5
+2025-12-14,New Orleans Pelicans,Chicago Bulls,114,104,0,1,121.2,120.6,0.4,1.0
+2025-12-18,New Orleans Pelicans,Houston Rockets,133,128,1,1,124.6,121.2,0.6,1.0
+2025-12-20,New Orleans Pelicans,Indiana Pacers,128,109,1,1,130.0,119.2,0.8,1.0
+2025-12-22,New Orleans Pelicans,Dallas Mavericks,119,113,1,1,127.4,114.8,1.0,0.6666666666666666
+2025-12-23,New Orleans Pelicans,Cleveland Cavaliers,118,141,0,0,122.4,119.0,0.8,0.0
+2025-12-26,New Orleans Pelicans,Phoenix Suns,108,115,1,0,121.2,121.2,0.6,0.0
+2025-12-27,New Orleans Pelicans,Phoenix Suns,114,123,1,0,117.4,120.2,0.4,0.0
+2025-10-31,New York Knicks,Chicago Bulls,125,135,0,0,113.4,115.4,0.4,0.0
+2025-11-02,New York Knicks,Chicago Bulls,128,116,1,1,115.2,116.4,0.4,0.5
+2025-11-03,New York Knicks,Washington Wizards,119,102,1,1,118.0,117.8,0.4,1.0
+2025-11-05,New York Knicks,Minnesota Timberwolves,137,114,1,1,124.0,117.6,0.6,1.0
+2025-11-09,New York Knicks,Brooklyn Nets,134,98,1,1,128.6,113.0,0.8,1.0
+2025-11-11,New York Knicks,Memphis Grizzlies,133,120,1,1,130.2,110.0,1.0,1.0
+2025-11-12,New York Knicks,Orlando Magic,107,124,1,0,126.0,111.6,0.8,0.0
+2025-11-14,New York Knicks,Miami Heat,140,132,1,1,130.2,117.6,0.8,0.5
+2025-11-17,New York Knicks,Miami Heat,113,115,0,0,125.4,117.8,0.6,0.3333333333333333
+2025-11-19,New York Knicks,Dallas Mavericks,113,111,0,1,121.2,120.4,0.6,1.0
+2025-11-22,New York Knicks,Orlando Magic,121,133,0,0,118.8,123.0,0.4,0.0
+2025-11-24,New York Knicks,Brooklyn Nets,113,100,0,1,120.0,118.2,0.6,1.0
+2025-11-26,New York Knicks,Charlotte Hornets,129,101,0,1,117.8,112.0,0.6,1.0
+2025-11-28,New York Knicks,Milwaukee Bucks,118,109,1,1,118.8,110.8,0.8,0.5
+2025-11-30,New York Knicks,Toronto Raptors,116,94,1,1,119.4,107.4,0.8,1.0
+2025-12-02,New York Knicks,Boston Celtics,117,123,0,0,118.6,105.4,0.8,0.5
+2025-12-03,New York Knicks,Charlotte Hornets,119,104,1,1,119.8,106.2,0.8,1.0
+2025-12-05,New York Knicks,Utah Jazz,146,112,1,1,123.2,108.4,0.8,1.0
+2025-12-07,New York Knicks,Orlando Magic,106,100,1,1,120.8,106.6,0.8,0.3333333333333333
+2025-12-09,New York Knicks,Toronto Raptors,117,101,0,1,121.0,108.0,0.8,1.0
+2025-12-13,New York Knicks,Orlando Magic,132,120,0,1,124.0,107.4,1.0,0.5
+2025-12-16,New York Knicks,San Antonio Spurs,124,113,1,1,125.0,109.2,1.0,1.0
+2025-12-18,New York Knicks,Indiana Pacers,114,113,0,1,118.6,109.4,1.0,1.0
+2025-12-19,New York Knicks,Philadelphia 76ers,107,116,1,0,118.8,112.6,0.8,0.0
+2025-12-21,New York Knicks,Miami Heat,132,125,1,1,121.8,117.4,0.8,0.5
+2025-12-23,New York Knicks,Minnesota Timberwolves,104,115,0,0,116.2,116.4,0.6,0.5
+2025-12-25,New York Knicks,Cleveland Cavaliers,126,124,1,1,116.6,118.6,0.6,1.0
+2025-12-27,New York Knicks,Atlanta Hawks,128,125,0,1,119.4,121.0,0.6,1.0
+2025-10-28,Oklahoma City Thunder,Sacramento Kings,107,101,1,1,118.2,110.8,1.0,1.0
+2025-10-30,Oklahoma City Thunder,Washington Wizards,127,108,1,1,118.6,107.6,1.0,1.0
+2025-11-02,Oklahoma City Thunder,New Orleans Pelicans,137,106,1,1,117.8,101.8,1.0,1.0
+2025-11-04,Oklahoma City Thunder,Los Angeles Clippers,126,107,0,1,119.6,103.2,1.0,1.0
+2025-11-05,Oklahoma City Thunder,Portland Trail Blazers,119,121,0,0,123.2,108.6,0.8,0.0
+2025-11-07,Oklahoma City Thunder,Sacramento Kings,132,101,0,1,128.2,108.6,0.8,1.0
+2025-11-09,Oklahoma City Thunder,Memphis Grizzlies,114,100,0,1,125.6,107.0,0.8,1.0
+2025-11-11,Oklahoma City Thunder,Golden State Warriors,126,102,1,1,123.4,106.2,0.8,1.0
+2025-11-12,Oklahoma City Thunder,Los Angeles Lakers,121,92,1,1,122.4,103.2,0.8,1.0
+2025-11-15,Oklahoma City Thunder,Charlotte Hornets,109,96,0,1,120.4,98.2,1.0,1.0
+2025-11-17,Oklahoma City Thunder,New Orleans Pelicans,126,109,0,1,119.2,99.8,1.0,1.0
+2025-11-19,Oklahoma City Thunder,Sacramento Kings,113,99,1,1,119.0,99.6,1.0,1.0
+2025-11-21,Oklahoma City Thunder,Utah Jazz,144,112,0,1,122.6,101.6,1.0,1.0
+2025-11-23,Oklahoma City Thunder,Portland Trail Blazers,122,95,1,1,122.8,102.2,1.0,0.5
+2025-11-26,Oklahoma City Thunder,Minnesota Timberwolves,113,105,1,1,123.6,104.0,1.0,1.0
+2025-11-28,Oklahoma City Thunder,Phoenix Suns,123,119,1,1,123.0,106.0,1.0,1.0
+2025-11-30,Oklahoma City Thunder,Portland Trail Blazers,123,115,0,1,125.0,109.2,1.0,0.6666666666666666
+2025-12-02,Oklahoma City Thunder,Golden State Warriors,124,112,0,1,121.0,109.2,1.0,1.0
+2025-12-05,Oklahoma City Thunder,Dallas Mavericks,132,111,1,1,123.0,112.4,1.0,1.0
+2025-12-07,Oklahoma City Thunder,Utah Jazz,131,101,0,1,126.6,111.6,1.0,1.0
+2025-12-10,Oklahoma City Thunder,Phoenix Suns,138,89,1,1,129.6,105.6,1.0,1.0
+2025-12-13,Oklahoma City Thunder,San Antonio Spurs,109,111,1,0,126.8,104.8,0.8,0.0
+2025-12-18,Oklahoma City Thunder,Los Angeles Clippers,122,101,1,1,126.4,102.6,0.8,1.0
+2025-12-19,Oklahoma City Thunder,Minnesota Timberwolves,107,112,0,0,121.4,102.8,0.6,0.5
+2025-12-22,Oklahoma City Thunder,Memphis Grizzlies,119,103,1,1,119.0,103.2,0.6,1.0
+2025-12-23,Oklahoma City Thunder,San Antonio Spurs,110,130,0,0,113.4,111.4,0.4,0.0
+2025-12-25,Oklahoma City Thunder,San Antonio Spurs,102,117,1,0,112.0,112.6,0.4,0.0
+2025-10-29,Orlando Magic,Detroit Pistons,116,135,0,0,114.0,122.6,0.2,0.0
+2025-10-30,Orlando Magic,Charlotte Hornets,123,107,0,1,113.6,119.8,0.2,1.0
+2025-11-01,Orlando Magic,Washington Wizards,125,94,0,1,117.2,116.4,0.4,1.0
+2025-11-04,Orlando Magic,Atlanta Hawks,112,127,0,0,120.0,119.8,0.4,0.0
+2025-11-07,Orlando Magic,Boston Celtics,123,110,1,1,119.8,114.6,0.6,1.0
+2025-11-09,Orlando Magic,Boston Celtics,107,111,1,0,118.0,109.8,0.6,0.5
+2025-11-10,Orlando Magic,Portland Trail Blazers,115,112,1,1,116.4,110.8,0.6,1.0
+2025-11-12,Orlando Magic,New York Knicks,124,107,0,1,116.2,113.4,0.6,1.0
+2025-11-14,Orlando Magic,Brooklyn Nets,105,98,1,1,114.8,107.6,0.8,1.0
+2025-11-16,Orlando Magic,Houston Rockets,113,117,0,0,112.8,109.0,0.6,0.0
+2025-11-18,Orlando Magic,Golden State Warriors,121,113,1,1,115.6,109.4,0.8,1.0
+2025-11-20,Orlando Magic,Los Angeles Clippers,129,101,1,1,118.4,107.2,0.8,1.0
+2025-11-22,Orlando Magic,New York Knicks,133,121,1,1,120.2,110.0,0.8,1.0
+2025-11-23,Orlando Magic,Boston Celtics,129,138,0,0,125.0,118.0,0.6,0.3333333333333333
+2025-11-25,Orlando Magic,Philadelphia 76ers,144,103,0,1,131.2,115.2,0.8,0.5
+2025-11-28,Orlando Magic,Detroit Pistons,112,109,0,1,129.4,114.4,0.8,0.5
+2025-12-01,Orlando Magic,Chicago Bulls,125,120,1,1,128.6,118.2,0.8,0.5
+2025-12-03,Orlando Magic,San Antonio Spurs,112,114,1,0,124.4,116.8,0.6,0.0
+2025-12-05,Orlando Magic,Miami Heat,106,105,1,1,119.8,110.2,0.8,1.0
+2025-12-07,Orlando Magic,New York Knicks,100,106,0,0,111.0,110.8,0.6,0.6666666666666666
+2025-12-09,Orlando Magic,Miami Heat,117,108,1,1,112.0,110.6,0.6,1.0
+2025-12-13,Orlando Magic,New York Knicks,120,132,1,0,111.0,113.0,0.4,0.5
+2025-12-18,Orlando Magic,Denver Nuggets,115,126,0,0,111.6,115.4,0.4,0.0
+2025-12-20,Orlando Magic,Utah Jazz,128,127,0,1,116.0,119.8,0.4,1.0
+2025-12-22,Orlando Magic,Golden State Warriors,97,120,0,0,115.4,122.6,0.4,0.5
+2025-12-23,Orlando Magic,Portland Trail Blazers,110,106,0,1,114.0,122.2,0.4,1.0
+2025-12-26,Orlando Magic,Charlotte Hornets,105,120,1,0,111.0,119.8,0.4,0.5
+2025-12-27,Orlando Magic,Denver Nuggets,127,126,1,1,113.4,119.8,0.6,0.5
+2025-10-31,Philadelphia 76ers,Boston Celtics,108,109,1,0,125.0,120.8,0.8,0.5
+2025-11-02,Philadelphia 76ers,Brooklyn Nets,129,105,0,1,127.4,118.6,0.8,1.0
+2025-11-04,Philadelphia 76ers,Chicago Bulls,111,113,0,0,124.6,117.0,0.6,0.0
+2025-11-05,Philadelphia 76ers,Cleveland Cavaliers,121,132,0,0,121.6,118.6,0.4,0.0
+2025-11-08,Philadelphia 76ers,Toronto Raptors,130,120,1,1,119.8,115.8,0.4,1.0
+2025-11-09,Philadelphia 76ers,Detroit Pistons,108,111,1,0,119.8,116.2,0.4,0.0
+2025-11-11,Philadelphia 76ers,Boston Celtics,102,100,1,1,114.4,115.2,0.4,0.6666666666666666
+2025-11-14,Philadelphia 76ers,Detroit Pistons,105,114,0,0,113.2,115.4,0.4,0.0
+2025-11-17,Philadelphia 76ers,Los Angeles Clippers,110,108,1,1,111.0,110.6,0.6,1.0
+2025-11-19,Philadelphia 76ers,Toronto Raptors,112,121,1,0,107.4,110.8,0.4,0.5
+2025-11-20,Philadelphia 76ers,Milwaukee Bucks,123,114,0,1,110.4,111.4,0.6,1.0
+2025-11-23,Philadelphia 76ers,Miami Heat,117,127,1,0,113.4,116.8,0.4,0.0
+2025-11-25,Philadelphia 76ers,Orlando Magic,103,144,1,0,113.0,122.8,0.4,0.5
+2025-11-28,Philadelphia 76ers,Brooklyn Nets,115,103,0,1,114.0,121.8,0.4,1.0
+2025-11-30,Philadelphia 76ers,Atlanta Hawks,134,142,1,0,118.4,126.0,0.4,0.0
+2025-12-02,Philadelphia 76ers,Washington Wizards,121,102,1,1,118.0,123.6,0.4,1.0
+2025-12-04,Philadelphia 76ers,Golden State Warriors,99,98,1,1,114.4,117.8,0.6,1.0
+2025-12-05,Philadelphia 76ers,Milwaukee Bucks,116,101,0,1,117.0,109.2,0.8,1.0
+2025-12-07,Philadelphia 76ers,Los Angeles Lakers,108,112,1,0,115.6,111.0,0.6,0.0
+2025-12-12,Philadelphia 76ers,Indiana Pacers,115,105,1,1,111.8,103.6,0.8,1.0
+2025-12-14,Philadelphia 76ers,Atlanta Hawks,117,120,0,0,111.0,107.2,0.6,0.0
+2025-12-19,Philadelphia 76ers,New York Knicks,116,107,0,1,114.4,109.0,0.6,1.0
+2025-12-20,Philadelphia 76ers,Dallas Mavericks,121,114,1,1,115.4,111.6,0.6,1.0
+2025-12-23,Philadelphia 76ers,Brooklyn Nets,106,114,1,0,115.0,112.0,0.6,0.6666666666666666
+2025-12-26,Philadelphia 76ers,Chicago Bulls,102,109,0,0,112.4,112.8,0.4,0.0
+2025-10-29,Phoenix Suns,Memphis Grizzlies,113,114,1,0,116.0,126.0,0.2,0.0
+2025-10-31,Phoenix Suns,Utah Jazz,118,96,1,1,115.6,122.0,0.2,0.5
+2025-11-02,Phoenix Suns,San Antonio Spurs,130,118,1,1,121.2,119.8,0.4,1.0
+2025-11-04,Phoenix Suns,Golden State Warriors,107,118,0,0,120.4,116.8,0.4,0.0
+2025-11-06,Phoenix Suns,Los Angeles Clippers,115,102,1,1,116.6,109.6,0.6,0.5
+2025-11-08,Phoenix Suns,Los Angeles Clippers,114,103,0,1,116.8,107.4,0.8,0.6666666666666666
+2025-11-10,Phoenix Suns,New Orleans Pelicans,121,98,1,1,117.4,107.8,0.8,1.0
+2025-11-12,Phoenix Suns,Dallas Mavericks,123,114,0,1,116.0,107.0,0.8,1.0
+2025-11-13,Phoenix Suns,Indiana Pacers,133,98,1,1,121.2,103.0,1.0,1.0
+2025-11-16,Phoenix Suns,Atlanta Hawks,122,124,1,0,122.6,107.4,0.8,0.0
+2025-11-18,Phoenix Suns,Portland Trail Blazers,127,110,0,1,125.2,108.8,0.8,1.0
+2025-11-21,Phoenix Suns,Minnesota Timberwolves,114,113,1,1,123.8,111.8,0.8,1.0
+2025-11-23,Phoenix Suns,San Antonio Spurs,111,102,1,1,121.4,109.4,0.8,1.0
+2025-11-24,Phoenix Suns,Houston Rockets,92,114,1,0,113.2,112.6,0.6,0.0
+2025-11-26,Phoenix Suns,Sacramento Kings,112,100,0,1,111.2,107.8,0.8,1.0
+2025-11-28,Phoenix Suns,Oklahoma City Thunder,119,123,0,0,109.6,110.4,0.6,0.0
+2025-11-29,Phoenix Suns,Denver Nuggets,112,130,1,0,109.2,113.8,0.4,0.0
+2025-12-01,Phoenix Suns,Los Angeles Lakers,125,108,0,1,112.0,115.0,0.4,1.0
+2025-12-05,Phoenix Suns,Houston Rockets,98,117,0,0,113.2,115.6,0.4,0.0
+2025-12-08,Phoenix Suns,Minnesota Timberwolves,108,105,0,1,112.4,116.6,0.4,1.0
+2025-12-10,Phoenix Suns,Oklahoma City Thunder,89,138,0,0,106.4,119.6,0.4,0.0
+2025-12-14,Phoenix Suns,Los Angeles Lakers,114,116,1,0,106.8,116.8,0.4,0.5
+2025-12-18,Phoenix Suns,Golden State Warriors,99,98,1,1,101.6,114.8,0.4,0.5
+2025-12-20,Phoenix Suns,Golden State Warriors,116,119,0,0,105.2,115.2,0.4,0.3333333333333333
+2025-12-23,Phoenix Suns,Los Angeles Lakers,132,108,1,1,110.0,115.8,0.4,0.6666666666666666
+2025-12-26,Phoenix Suns,New Orleans Pelicans,115,108,0,1,115.2,109.8,0.6,1.0
+2025-12-27,Phoenix Suns,New Orleans Pelicans,123,114,0,1,117.0,109.4,0.8,1.0
+2025-10-29,Portland Trail Blazers,Utah Jazz,136,134,0,1,123.6,118.6,0.6,1.0
+2025-10-31,Portland Trail Blazers,Denver Nuggets,109,107,1,1,122.6,116.4,0.8,1.0
+2025-11-03,Portland Trail Blazers,Los Angeles Lakers,115,123,1,0,117.8,117.2,0.6,0.5
+2025-11-05,Portland Trail Blazers,Oklahoma City Thunder,121,119,1,1,120.6,118.2,0.8,1.0
+2025-11-08,Portland Trail Blazers,Miami Heat,131,136,0,0,122.4,123.8,0.6,0.0
+2025-11-10,Portland Trail Blazers,Orlando Magic,112,115,0,0,117.6,120.0,0.4,0.0
+2025-11-12,Portland Trail Blazers,New Orleans Pelicans,125,117,0,1,120.8,122.0,0.4,1.0
+2025-11-14,Portland Trail Blazers,Houston Rockets,116,140,0,0,121.0,125.4,0.4,0.0
+2025-11-16,Portland Trail Blazers,Dallas Mavericks,133,138,0,0,123.4,129.2,0.2,0.0
+2025-11-18,Portland Trail Blazers,Phoenix Suns,110,127,1,0,119.2,127.4,0.2,0.0
+2025-11-19,Portland Trail Blazers,Chicago Bulls,121,122,1,0,121.0,128.8,0.2,0.0
+2025-11-21,Portland Trail Blazers,Golden State Warriors,127,123,0,1,121.4,130.0,0.2,1.0
+2025-11-23,Portland Trail Blazers,Oklahoma City Thunder,95,122,0,0,117.2,126.4,0.2,0.5
+2025-11-24,Portland Trail Blazers,Milwaukee Bucks,115,103,0,1,113.6,119.4,0.4,1.0
+2025-11-26,Portland Trail Blazers,San Antonio Spurs,102,115,1,0,112.0,117.0,0.4,0.0
+2025-11-30,Portland Trail Blazers,Oklahoma City Thunder,115,123,1,0,110.8,117.2,0.4,0.3333333333333333
+2025-12-02,Portland Trail Blazers,Toronto Raptors,118,121,0,0,109.0,116.8,0.2,0.0
+2025-12-03,Portland Trail Blazers,Cleveland Cavaliers,122,110,0,1,114.4,114.4,0.4,1.0
+2025-12-05,Portland Trail Blazers,Detroit Pistons,116,122,0,0,114.6,118.2,0.2,0.0
+2025-12-07,Portland Trail Blazers,Memphis Grizzlies,96,119,0,0,113.4,119.0,0.2,0.0
+2025-12-11,Portland Trail Blazers,New Orleans Pelicans,120,143,0,0,114.4,123.0,0.2,0.5
+2025-12-14,Portland Trail Blazers,Golden State Warriors,136,131,1,1,118.0,125.0,0.4,1.0
+2025-12-18,Portland Trail Blazers,Sacramento Kings,134,133,1,1,120.4,129.6,0.4,1.0
+2025-12-20,Portland Trail Blazers,Sacramento Kings,98,93,0,1,116.8,123.8,0.6,1.0
+2025-12-22,Portland Trail Blazers,Detroit Pistons,102,110,1,0,118.0,122.0,0.6,0.0
+2025-12-23,Portland Trail Blazers,Orlando Magic,106,110,1,0,115.2,115.4,0.6,0.0
+2025-12-26,Portland Trail Blazers,Los Angeles Clippers,103,119,1,0,108.6,113.0,0.4,0.0
+2025-10-29,Sacramento Kings,Chicago Bulls,113,126,0,0,111.0,116.8,0.2,0.0
+2025-11-01,Sacramento Kings,Milwaukee Bucks,135,133,0,1,114.8,119.4,0.4,1.0
+2025-11-03,Sacramento Kings,Denver Nuggets,124,130,0,0,118.6,124.6,0.2,0.0
+2025-11-05,Sacramento Kings,Golden State Warriors,121,116,1,1,118.8,122.4,0.4,1.0
+2025-11-07,Sacramento Kings,Oklahoma City Thunder,101,132,1,0,118.8,127.4,0.4,0.0
+2025-11-09,Sacramento Kings,Minnesota Timberwolves,117,144,1,0,119.6,131.0,0.4,0.0
+2025-11-11,Sacramento Kings,Denver Nuggets,108,122,1,0,114.2,128.8,0.2,0.0
+2025-11-12,Sacramento Kings,Atlanta Hawks,100,133,1,0,109.4,129.4,0.2,0.0
+2025-11-14,Sacramento Kings,Minnesota Timberwolves,110,124,0,0,107.2,131.0,0.0,0.0
+2025-11-16,Sacramento Kings,San Antonio Spurs,110,123,0,0,109.0,129.2,0.0,0.0
+2025-11-19,Sacramento Kings,Oklahoma City Thunder,99,113,0,0,105.4,123.0,0.0,0.0
+2025-11-20,Sacramento Kings,Memphis Grizzlies,96,137,0,0,103.0,126.0,0.0,0.0
+2025-11-22,Sacramento Kings,Denver Nuggets,128,123,0,1,108.6,124.0,0.2,0.3333333333333333
+2025-11-24,Sacramento Kings,Minnesota Timberwolves,117,112,1,1,110.0,121.6,0.4,0.3333333333333333
+2025-11-26,Sacramento Kings,Phoenix Suns,100,112,1,0,108.0,119.4,0.4,0.0
+2025-11-28,Sacramento Kings,Utah Jazz,119,128,0,0,112.0,122.4,0.4,0.5
+2025-11-30,Sacramento Kings,Memphis Grizzlies,107,115,1,0,114.2,118.0,0.4,0.0
+2025-12-03,Sacramento Kings,Houston Rockets,95,121,0,0,107.6,117.6,0.2,0.0
+2025-12-06,Sacramento Kings,Miami Heat,127,111,0,1,109.6,117.4,0.2,1.0
+2025-12-08,Sacramento Kings,Indiana Pacers,105,116,0,0,110.6,118.2,0.2,0.0
+2025-12-11,Sacramento Kings,Denver Nuggets,105,136,1,0,107.8,119.8,0.2,0.25
+2025-12-14,Sacramento Kings,Minnesota Timberwolves,103,117,0,0,107.0,120.2,0.2,0.25
+2025-12-18,Sacramento Kings,Portland Trail Blazers,133,134,0,0,114.6,122.8,0.2,0.0
+2025-12-20,Sacramento Kings,Portland Trail Blazers,93,98,1,0,107.8,120.2,0.0,0.0
+2025-12-21,Sacramento Kings,Houston Rockets,125,124,1,1,111.8,121.8,0.2,0.5
+2025-12-23,Sacramento Kings,Detroit Pistons,127,136,1,0,116.2,121.8,0.2,0.0
+2025-12-27,Sacramento Kings,Dallas Mavericks,113,107,1,1,118.2,119.8,0.4,1.0
+2025-10-30,San Antonio Spurs,Miami Heat,107,101,1,1,118.2,103.8,1.0,1.0
+2025-11-02,San Antonio Spurs,Phoenix Suns,118,130,0,0,116.8,111.4,0.8,0.0
+2025-11-05,San Antonio Spurs,Los Angeles Lakers,116,118,0,0,116.0,111.8,0.6,0.0
+2025-11-07,San Antonio Spurs,Houston Rockets,121,110,1,1,116.6,112.4,0.6,1.0
+2025-11-08,San Antonio Spurs,New Orleans Pelicans,126,119,1,1,117.6,115.6,0.6,1.0
+2025-11-10,San Antonio Spurs,Chicago Bulls,121,117,0,1,120.4,118.8,0.6,1.0
+2025-11-12,San Antonio Spurs,Golden State Warriors,120,125,1,0,120.8,117.8,0.6,0.0
+2025-11-14,San Antonio Spurs,Golden State Warriors,108,109,1,0,119.2,116.0,0.6,0.0
+2025-11-16,San Antonio Spurs,Sacramento Kings,123,110,1,1,119.6,116.0,0.6,1.0
+2025-11-18,San Antonio Spurs,Memphis Grizzlies,111,101,1,1,116.6,112.4,0.6,1.0
+2025-11-20,San Antonio Spurs,Atlanta Hawks,135,126,1,1,119.4,114.2,0.6,1.0
+2025-11-23,San Antonio Spurs,Phoenix Suns,102,111,0,0,115.8,111.4,0.6,0.0
+2025-11-26,San Antonio Spurs,Portland Trail Blazers,115,102,0,1,117.2,110.0,0.8,1.0
+2025-11-28,San Antonio Spurs,Denver Nuggets,139,136,0,1,120.4,115.2,0.8,1.0
+2025-11-30,San Antonio Spurs,Minnesota Timberwolves,112,125,0,0,120.6,120.0,0.6,0.0
+2025-12-02,San Antonio Spurs,Memphis Grizzlies,126,119,1,1,118.8,118.6,0.6,1.0
+2025-12-03,San Antonio Spurs,Orlando Magic,114,112,0,1,121.2,118.8,0.8,1.0
+2025-12-05,San Antonio Spurs,Cleveland Cavaliers,117,130,0,0,121.6,124.4,0.6,0.0
+2025-12-08,San Antonio Spurs,New Orleans Pelicans,135,132,0,1,120.8,123.6,0.6,1.0
+2025-12-10,San Antonio Spurs,Los Angeles Lakers,132,119,0,1,124.8,122.4,0.8,0.5
+2025-12-13,San Antonio Spurs,Oklahoma City Thunder,111,109,0,1,121.8,120.4,0.8,1.0
+2025-12-16,San Antonio Spurs,New York Knicks,113,124,0,0,121.6,122.8,0.6,0.0
+2025-12-18,San Antonio Spurs,Washington Wizards,119,94,1,1,122.0,115.6,0.8,1.0
+2025-12-19,San Antonio Spurs,Atlanta Hawks,126,98,0,1,120.2,108.8,0.8,1.0
+2025-12-21,San Antonio Spurs,Washington Wizards,124,113,0,1,118.6,107.6,0.8,1.0
+2025-12-23,San Antonio Spurs,Oklahoma City Thunder,130,110,1,1,122.4,107.8,0.8,1.0
+2025-12-25,San Antonio Spurs,Oklahoma City Thunder,117,102,0,1,123.2,103.4,1.0,1.0
+2025-12-27,San Antonio Spurs,Utah Jazz,114,127,1,0,122.2,110.0,0.8,0.0
+2025-10-29,Toronto Raptors,Houston Rockets,121,139,1,0,121.4,127.8,0.2,0.0
+2025-10-31,Toronto Raptors,Cleveland Cavaliers,112,101,0,1,116.2,124.4,0.2,1.0
+2025-11-02,Toronto Raptors,Memphis Grizzlies,117,104,1,1,116.4,120.8,0.4,1.0
+2025-11-04,Toronto Raptors,Milwaukee Bucks,128,100,1,1,116.2,113.0,0.6,0.5
+2025-11-07,Toronto Raptors,Atlanta Hawks,109,97,0,1,117.4,108.2,0.8,1.0
+2025-11-08,Toronto Raptors,Philadelphia 76ers,120,130,0,0,117.2,106.4,0.8,0.0
+2025-11-11,Toronto Raptors,Brooklyn Nets,119,109,0,1,118.6,108.0,0.8,1.0
+2025-11-13,Toronto Raptors,Cleveland Cavaliers,126,113,0,1,120.4,109.8,0.8,1.0
+2025-11-15,Toronto Raptors,Indiana Pacers,129,111,0,1,120.6,112.0,0.8,1.0
+2025-11-17,Toronto Raptors,Charlotte Hornets,110,108,1,1,120.8,114.2,0.8,1.0
+2025-11-19,Toronto Raptors,Philadelphia 76ers,121,112,0,1,121.0,110.6,1.0,0.5
+2025-11-21,Toronto Raptors,Washington Wizards,140,110,1,1,125.2,110.8,1.0,1.0
+2025-11-23,Toronto Raptors,Brooklyn Nets,119,109,1,1,123.8,110.0,1.0,1.0
+2025-11-24,Toronto Raptors,Cleveland Cavaliers,110,99,1,1,120.0,107.6,1.0,1.0
+2025-11-26,Toronto Raptors,Indiana Pacers,97,95,1,1,117.4,105.0,1.0,1.0
+2025-11-29,Toronto Raptors,Charlotte Hornets,111,118,0,0,115.4,106.2,0.8,0.5
+2025-11-30,Toronto Raptors,New York Knicks,94,116,0,0,106.2,107.4,0.6,0.0
+2025-12-02,Toronto Raptors,Portland Trail Blazers,121,118,1,1,106.6,109.2,0.6,1.0
+2025-12-04,Toronto Raptors,Los Angeles Lakers,120,123,1,0,108.6,114.0,0.4,0.0
+2025-12-05,Toronto Raptors,Charlotte Hornets,86,111,1,0,106.4,117.2,0.2,0.3333333333333333
+2025-12-07,Toronto Raptors,Boston Celtics,113,121,1,0,106.8,117.8,0.2,0.0
+2025-12-09,Toronto Raptors,New York Knicks,101,117,1,0,108.2,118.0,0.2,0.0
+2025-12-15,Toronto Raptors,Miami Heat,106,96,0,1,105.2,113.6,0.2,1.0
+2025-12-18,Toronto Raptors,Milwaukee Bucks,111,105,0,1,103.4,110.0,0.4,0.6666666666666666
+2025-12-20,Toronto Raptors,Boston Celtics,96,112,1,0,105.4,110.2,0.4,0.0
+2025-12-21,Toronto Raptors,Brooklyn Nets,81,96,0,0,99.0,105.2,0.4,0.6666666666666666
+2025-12-23,Toronto Raptors,Miami Heat,112,91,0,1,101.2,100.0,0.6,1.0
+2025-12-26,Toronto Raptors,Washington Wizards,117,138,0,0,103.4,108.4,0.4,0.5
+2025-10-31,Utah Jazz,Phoenix Suns,96,118,0,0,120.2,120.2,0.4,0.5
+2025-11-02,Utah Jazz,Charlotte Hornets,103,126,0,0,115.0,123.8,0.2,0.0
+2025-11-03,Utah Jazz,Boston Celtics,105,103,0,1,115.2,123.4,0.4,1.0
+2025-11-05,Utah Jazz,Detroit Pistons,103,114,0,0,108.2,119.4,0.2,0.0
+2025-11-07,Utah Jazz,Minnesota Timberwolves,97,137,0,0,100.8,119.6,0.2,0.0
+2025-11-10,Utah Jazz,Minnesota Timberwolves,113,120,1,0,104.2,120.0,0.2,0.0
+2025-11-11,Utah Jazz,Indiana Pacers,152,128,1,1,114.0,120.4,0.4,1.0
+2025-11-13,Utah Jazz,Atlanta Hawks,122,132,1,0,117.4,126.2,0.2,0.0
+2025-11-16,Utah Jazz,Chicago Bulls,150,147,1,1,126.8,132.8,0.4,1.0
+2025-11-18,Utah Jazz,Los Angeles Lakers,126,140,0,0,132.6,133.4,0.4,0.0
+2025-11-21,Utah Jazz,Oklahoma City Thunder,112,144,1,0,132.4,138.2,0.4,0.0
+2025-11-23,Utah Jazz,Los Angeles Lakers,106,108,1,0,123.2,134.2,0.2,0.0
+2025-11-24,Utah Jazz,Golden State Warriors,117,134,0,0,122.2,134.6,0.2,0.0
+2025-11-28,Utah Jazz,Sacramento Kings,128,119,1,1,117.8,129.0,0.2,0.5
+2025-11-30,Utah Jazz,Houston Rockets,101,129,1,0,112.8,126.8,0.2,0.0
+2025-12-01,Utah Jazz,Houston Rockets,133,125,1,1,117.0,123.0,0.4,0.5
+2025-12-04,Utah Jazz,Brooklyn Nets,123,110,0,1,120.4,123.4,0.6,1.0
+2025-12-05,Utah Jazz,New York Knicks,112,146,0,0,119.4,125.8,0.6,0.0
+2025-12-07,Utah Jazz,Oklahoma City Thunder,101,131,1,0,114.0,128.2,0.4,0.0
+2025-12-12,Utah Jazz,Memphis Grizzlies,130,126,0,1,119.8,127.6,0.6,1.0
+2025-12-15,Utah Jazz,Dallas Mavericks,140,133,1,1,121.2,129.2,0.6,1.0
+2025-12-18,Utah Jazz,Los Angeles Lakers,135,143,1,0,123.6,135.8,0.4,0.0
+2025-12-20,Utah Jazz,Orlando Magic,127,128,1,0,126.6,132.2,0.4,0.0
+2025-12-22,Utah Jazz,Denver Nuggets,112,135,0,0,128.8,133.0,0.4,0.0
+2025-12-23,Utah Jazz,Memphis Grizzlies,128,137,1,0,128.4,135.2,0.2,0.5
+2025-12-26,Utah Jazz,Detroit Pistons,131,129,1,1,126.6,134.4,0.2,0.5
+2025-12-27,Utah Jazz,San Antonio Spurs,127,114,0,1,125.0,128.6,0.4,1.0
+2025-10-30,Washington Wizards,Oklahoma City Thunder,108,127,0,0,118.4,129.0,0.2,0.0
+2025-11-01,Washington Wizards,Orlando Magic,94,125,1,0,113.2,127.4,0.2,0.0
+2025-11-03,Washington Wizards,New York Knicks,102,119,0,0,110.2,129.8,0.0,0.0
+2025-11-05,Washington Wizards,Boston Celtics,107,136,0,0,109.0,129.2,0.0,0.0
+2025-11-07,Washington Wizards,Cleveland Cavaliers,115,148,1,0,105.2,131.0,0.0,0.0
+2025-11-08,Washington Wizards,Dallas Mavericks,105,111,1,0,104.6,127.8,0.0,0.5
+2025-11-10,Washington Wizards,Detroit Pistons,135,137,0,0,112.8,130.2,0.0,0.0
+2025-11-12,Washington Wizards,Houston Rockets,112,135,0,0,114.8,133.4,0.0,0.0
+2025-11-16,Washington Wizards,Brooklyn Nets,106,129,1,0,114.6,132.0,0.0,0.0
+2025-11-19,Washington Wizards,Minnesota Timberwolves,109,120,0,0,113.4,126.4,0.0,0.0
+2025-11-21,Washington Wizards,Toronto Raptors,110,140,0,0,114.4,132.2,0.0,0.0
+2025-11-22,Washington Wizards,Chicago Bulls,120,121,0,0,111.4,129.0,0.0,0.0
+2025-11-25,Washington Wizards,Atlanta Hawks,132,113,1,1,115.4,124.6,0.2,1.0
+2025-11-28,Washington Wizards,Indiana Pacers,86,119,0,0,111.4,122.6,0.2,0.0
+2025-12-01,Washington Wizards,Milwaukee Bucks,129,126,1,1,115.4,123.8,0.4,0.5
+2025-12-02,Washington Wizards,Philadelphia 76ers,102,121,0,0,113.8,120.0,0.4,0.0
+2025-12-04,Washington Wizards,Boston Celtics,101,146,1,0,110.0,125.0,0.4,0.0
+2025-12-06,Washington Wizards,Atlanta Hawks,116,131,1,0,106.8,128.6,0.2,0.5
+2025-12-12,Washington Wizards,Cleveland Cavaliers,126,130,1,0,114.8,130.8,0.2,0.0
+2025-12-14,Washington Wizards,Indiana Pacers,108,89,0,1,110.6,123.4,0.2,0.5
+2025-12-18,Washington Wizards,San Antonio Spurs,94,119,0,0,109.0,123.0,0.2,0.0
+2025-12-20,Washington Wizards,Memphis Grizzlies,130,122,0,1,114.8,118.2,0.4,1.0
+2025-12-21,Washington Wizards,San Antonio Spurs,113,124,1,0,114.2,116.8,0.4,0.0
+2025-12-23,Washington Wizards,Charlotte Hornets,109,126,0,0,110.8,116.0,0.4,0.0
+2025-12-26,Washington Wizards,Toronto Raptors,138,117,1,1,116.8,121.6,0.4,0.5
